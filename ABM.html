@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>ABM</title>
+</head>
+<body>
+
+<!--Pay Attention: All code below are hand-crafted HTML.-->
+
+<h1>Agent Based Modelling</h1>
+</div>
+<p>This page is the introduction of my code for Agent Based Modelling in the module: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/">Programming for Social Science</a>. More information about this assessment can be found <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/assessment1/index.html">here</a>. </p>
+
+<h2>Biography</h2>
+
+<table class="imgtable"><tr><td>
+<img src="Taowen.jpg" alt="alt text" width="123.25px" height="170px" />&nbsp;</td>
+<td align="left"><p><font size=5>Tao Wen</font> <br />
+
+  PhD student <br />
+
+  <a href="https://www.alliancembs.manchester.ac.uk/">Alliance Manchester Business School</a><br />
+  
+  <a href="https://www.manchester.ac.uk/">University of Manchester</a><br />
+
+  Phone: 86-18991912045 <br />
+
+  E-mail: tao.wen [@] postgrad [DOT] manchester [DOT] ac [DOT] uk<br />
+
+  <a href="https://scholar.google.com/citations?hl=en&user=edoHbXEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> <br /><br />
+
+</td></tr></table>
+
+<p>I am currently a PhD student in the <a href="https://www.alliancembs.manchester.ac.uk/">Alliance Manchester Business School</a> at <a href="https://www.manchester.ac.uk/">University of Manchester</a>, supervised by <a href="https://www.research.manchester.ac.uk/portal/yu-wang.chen.html">Prof. Yu-Wang Chen</a>, <a href="https://www.research.manchester.ac.uk/portal/luis.ospina-forero.html">Dr. Luis Ospina-Forero</a>, and <a href="https://www.research.manchester.ac.uk/portal/tahirabbas.syed.html">Dr. Tahir Abbas Syed</a>.</p>
+
+<p>More information can be found in my <a href="https://taaowen.github.io/">Homepage</a>.</p>
+
+
+<h2>Information for code</h2>
+
+<p> The source code can be found <a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode">here</a>.</p>
+
+<p>This code is designed to model different action of two agents, including the birth, movement, eating, and sharing information with neighbors. The specific information is shown below.</p>
+
+<ol>
+  <li><p>There are different numbers of sheep and wolves at the beginning whose positions are randomly distributed in the environment, and they can move randomly in the process. However, wolves can move quicker than sheep, and sheep with different stores have different speeds. 
+  </p>
+  </li>
+
+  <li><p>Sheep can eat the grass in the environment based on certain rules. Wolves can eat sheep when they are close.
+  </p>
+  </li>
+
+  <li><p>Sheep will die when they are eaten by wolves, and wolves will die when they eat a certain number of sheep. The state of each sheep and wolf will be saved in code and shown in the visualized figure.
+  </p>
+  </li>
+
+  <li><p>Sheep can share the information/store with neighbor within a defined distance.
+  </p>
+  </li>
+
+  <li><p>Sheep and wolves have different birth rates.
+  </p>
+  </li>
+</ol>
+
+<p>There are two python files. "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/agentframework.py">agentframework.py</a>" constructs the Agents class for sheep and wolves, as well as their actions; "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>" contains the main program code: </p>
+<ul>
+
+  <li><p><b>Basic figures</b>: Users can obtain the final visualized figure that shows the environment and positions of sheep and wolves (with different color). Users can also obtain the environment after modelling and the total amount stored by all the agents at each step in ".txt" files by uncommenting some lines based on the introduction in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>".
+  </p>
+  </li>
+
+  <li><p><b>Animation</b>: Users can get a GIF of agents (wolves and sheep) moving in the environment that shows agents’ movement and state, as well as the amount of grass in each point.
+  </p>
+  </li>
+
+  <li><p><b>GUI design</b>: The same results in "Animation" can be obtained, but users need to click 'Run model' in GUI.
+  </p>
+  </li>
+
+</ul>
+
+<p>There are three text files. "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/in.txt">in.txt</a>" provides the environment data; "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/output_environment.txt">output_environment.txt</a>" and "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/output_store.txt">output_store.txt</a>" are output files that save the environment data after running the code and the total amount stored by all the agents at each step, respectively. </p>
+
+<p>Some figures obtained by testing are in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/tree/main/testfigure">testfigure</a>".</p>
+
+<p>More information about this code can be found in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/README.md">README.md</a>". In addition, <a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/LICENSE">LICENSE</a> is also given in this folder.</p>
+
+
+
+</td>
+</tr>
+</table>
+</body>
+</html>
