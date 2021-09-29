@@ -47,43 +47,56 @@
 <p>This code is designed to model different action of two agents, including the birth, movement, eating, and sharing information with neighbors. The specific information is shown below.</p>
 
 <ol>
-  <li><p>There are different numbers of sheep and wolves at the beginning whose positions are randomly distributed in the environment, and they can move randomly in the process. However, wolves can move quicker than sheep, and sheep with different stores have different speeds. 
-  </p>
-  </li>
+  <li><p>There are different numbers of sheep and wolves at the beginning whose positions are randomly distributed in the environment, and they can move randomly in the process. However, wolves can move quicker than sheep, and sheep with different stores have different speeds.</p></li>
 
-  <li><p>Sheep can eat the grass in the environment based on certain rules. Wolves can eat sheep when they are close.
-  </p>
-  </li>
+  <li><p>Sheep can eat the grass in the environment based on certain rules. Wolves can eat sheep when they are close.</p></li>
 
-  <li><p>Sheep will die when they are eaten by wolves, and wolves will die when they eat a certain number of sheep. The state of each sheep and wolf will be saved in code and shown in the visualized figure.
-  </p>
-  </li>
+  <li><p>Sheep will die when they are eaten by wolves, and wolves will die when they eat a certain number of sheep. The state of each sheep and wolf will be saved in code and shown in the visualized figure.</p></li>
 
-  <li><p>Sheep can share the information/store with neighbor within a defined distance.
-  </p>
-  </li>
+  <li><p>Sheep can share the information/store with neighbor within a defined distance.</p></li>
 
-  <li><p>Sheep and wolves have different birth rates.
-  </p>
-  </li>
+  <li><p>Sheep and wolves have different birth rates.</p></li>
 </ol>
+
+<p>The mathematic model of my code can be found in the submitted word file because it contains many equations.</p>
+<!--This sentence needs further edits. Also in Markdown.-->
+<!--This sentence needs further edits.  Also in Markdown.-->
+<!--This sentence needs further edits.  Also in Markdown.-->
+<!--This sentence needs further edits.  Also in Markdown.-->
+
+<h2>Files on Github</h2>
 
 <p>There are two python files. "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/agentframework.py">agentframework.py</a>" constructs the Agents class for sheep and wolves, as well as their actions; "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>" contains the main program code: </p>
 <ul>
 
-  <li><p><b>Basic figures</b>: Users can obtain the final visualized figure that shows the environment and positions of sheep and wolves (with different color). Users can also obtain the environment after modelling and the total amount stored by all the agents at each step in ".txt" files by uncommenting some lines based on the introduction in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>".
-  </p>
-  </li>
+  <li><p><b>Initial setting</b>: All initial information about agents and environment are set here and users do not need to change it if they want to use default values.</p></li>
 
-  <li><p><b>Animation</b>: Users can get a GIF of agents (wolves and sheep) moving in the environment that shows agents’ movement and state, as well as the amount of grass in each point.
-  </p>
-  </li>
+  <li><p><b>Basic figures</b>: Users can obtain the final visualized figure that shows the environment and positions of sheep and wolves (with different color). Users can also obtain the environment after modelling and the total amount stored by all the agents at each step in ".txt" files by uncommenting some lines based on the introduction in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>". Please uncomment all codes between "Code below is for Basic figures" and "Code above is for Basic figures" when users want to run this part of code.</p></li>
 
-  <li><p><b>GUI design</b>: The same results in "Animation" can be obtained, but users need to click 'Run model' in GUI.
-  </p>
-  </li>
+  <li><p><b>Animation</b>: Users can get a GIF of agents (wolves and sheep) moving in the environment that shows agents’ movement and state, as well as the amount of grass in each point. Please uncomment all codes between "Code below is for Animation" and "Code above is for Animation" when users want to run this part of code.</p></li>
+
+  <li><p><b>GUI design</b>: The same results in "Animation" can be obtained, but users need to click 'Run model' in GUI. Please uncomment all codes between "Code below is for GUI Setting" and "Code above is for GUI Setting" when users want to run this part of code. In addition, users need to use `Tkinter` and can refer to this <a href="https://www.geog.leeds.ac.uk/courses/computing/practicals/python/agent-framework/part9/index.html">introduction</a> to set.</p></li>
 
 </ul>
+
+<p>Please note that all tests are included in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>" and "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/agentframework.py">agentframework.py</a>" by commenting. Thus, users can uncomment specific lines to test whether the code can work normally based on the introduction in these files. For example,</p>
+
+<ol>
+  <li><p>Read model parameters from the command line;</p></li>
+
+  <li><p>Visualize the environment data obtained from text file;</p></li>
+
+  <li><p>Measure the distance between two agents by different functions defined in advance, and obtain the timings for different functions with different number of agents to visualize;</p></li>
+
+  <li><p>Identify the agent with the largest x (furthest east);</p></li>
+
+  <li><p>Print the position (and other information) of agents in each iteration;</p></li>
+
+  <li><p>Write the environment data after eating and movement into text file;</p></li>
+  
+  <li><p>and others.</p></li>
+</ol>
+</ol>
 
 <p>There are three text files. "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/in.txt">in.txt</a>" provides the environment data; "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/output_environment.txt">output_environment.txt</a>" and "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/output_store.txt">output_store.txt</a>" are output files that save the environment data after running the code and the total amount stored by all the agents at each step, respectively. </p>
 
@@ -91,7 +104,20 @@
 
 <p>More information about this code can be found in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/README.md">README.md</a>". In addition, <a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/LICENSE">LICENSE</a> is also given in this folder.</p>
 
+<p>Outcome of tests can be found in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/README.md">README.md</a>".</p>
 
+
+<h2>Other information</h2>
+
+<ol>
+  <li><p><b>Known issues</b>: There are no known issues now.</p></li>
+
+  <li><p><b>Further development</b>: The mathematic model can be further improved to describe the movement and dynamic of agents.</p></li>
+
+  <li><p><b>Testing done</b>: Almost all codes are tested. Users can test it by uncommenting specific lines in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/main.py">main.py</a>" and "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/agentframework.py">agentframework.py</a>" or directly read the results in "<a href="https://github.com/TaaoWen/PSC_AgentBasedModellingCode/blob/main/README.md">README.md</a>". </p></li>
+
+</ol>
+</ol>
 
 </td>
 </tr>
