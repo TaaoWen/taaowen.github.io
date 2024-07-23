@@ -21,6 +21,8 @@ author_profile: true
 
 Experience
 ======
+- July -- Aug 2024: Indiana University Bloomington, Indiana, USA<br>
+  Visiting PhD Student, supervised by [Prof. Yong-Yeol Ahn](https://yongyeol.com/) (funded by Turing Scheme Fellowship)
 - Jan. -- June 2024: The Alan Turing Institute, London, UK<br>
   Turing Enrichment Student
 - Feb. -- March 2023: University of Oxford, Oxford, UK<br>
