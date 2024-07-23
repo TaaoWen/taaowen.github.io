@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Experience"
+    url: /experience/
+
   - title: "Publications"
     url: /publications/
 
@@ -16,7 +19,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /assets/CV_TaoWEN.pdf
+    url: ./assets/CV_TaoWEN.pdf
     
   - title: "Guide"
     url: /markdown/
