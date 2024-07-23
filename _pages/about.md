@@ -38,7 +38,7 @@ Featured Publications
     <p style="margin: 5px 0;"><b>Tao Wen</b>, Yu-wang Chen, Tahir Abbas Syed, Ting Wu</p>
     <p style="margin: 5px 0;"><i>Omega</i>, 2024</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1016/j.omega.2023.102945" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://doi.org/10.1016/j.omega.2023.102945" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">PDF</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:TCKWBpNYVaoJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6Hrwk32EA:AFWwaeYAAAAAZqAxwEDBuBD5SF5g8rByRxCewbU&scisig=AFWwaeYAAAAAZqAxwGfW1zjJyD_udaKIALHOG3w&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Cite</a>
     </div>
   </div>
@@ -53,7 +53,7 @@ Featured Publications
     <p style="margin: 5px 0;"><b>Tao Wen</b>, Jinde Cao, Kang Hao Cheong</p>
     <p style="margin: 5px 0;"><i>IEEE Transactions on Cybernetics</i>, 2023</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1109/TCYB.2021.3123081" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://doi.org/10.1109/TCYB.2021.3123081" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">PDF</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:gnhq70P2rRIJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6Hrwk3a2s:AFWwaeYAAAAAZqAxc2sDWeYcXy_MptRU9NgkSt4&scisig=AFWwaeYAAAAAZqAxc-309Wec4oRWFsIVLSNkusA&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Cite</a>
     </div>
   </div>
@@ -68,7 +68,7 @@ Featured Publications
     <p style="margin: 5px 0;"><b>Tao Wen</b>, Kang Hao Cheong, Joel Weijia Lai, Jin Ming Koh, Eugene V. Koonin</p>
     <p style="margin: 5px 0;"><i>Physical Review Letters</i>, 2022</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1103/PhysRevLett.128.218101" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://doi.org/10.1103/PhysRevLett.128.218101" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">PDF</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HPYlUqAWflEJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6HrwkqwEk:AFWwaeYAAAAAZqAs2EmeZPyWJnHtzOqgqdIQ_ms&scisig=AFWwaeYAAAAAZqAs2Gg_YbrBlH-oTmHk-gsxnsw&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Cite</a>
       <a href="https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Code</a>
     </div>
@@ -84,7 +84,7 @@ Featured Publications
     <p style="margin: 5px 0;">Kang Hao Cheong*, <b>Tao Wen</b>*, Sean Benler, Jin Ming Koh, Eugene V. Koonin</p>
     <p style="margin: 5px 0;"><i>Proceedings of the National Academy of Sciences</i>, 2022</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1073/pnas.2115145119" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://doi.org/10.1073/pnas.2115145119" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">PDF</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:srVvoNpszdsJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6Hrwk2oR0:AFWwaeYAAAAAZqAwuR2vfbCiUo7j9FEKKLYWopE&scisig=AFWwaeYAAAAAZqAwuX8h2YCyGfR78oJ_QjcnkIw&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Cite</a>
       <a href="https://osf.io/vth96/?view_only=c61c0a312ef04624acbeb41d071e70df" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Code</a>
     </div>
@@ -100,7 +100,7 @@ Featured Publications
     <p style="margin: 5px 0;"><b>Tao Wen</b>, Qiuya Gao, Yu-wang Chen, Kang Hao Cheong</p>
     <p style="margin: 5px 0;"><i>Reliability Engineering & System Safety</i>, 2022</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1016/j.ress.2022.108578" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://doi.org/10.1016/j.ress.2022.108578" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">PDF</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:rcyHEdo2WWEJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6Hrwk3J5Q:AFWwaeYAAAAAZqAxP5R4tygGwDc_CF8sdYFpXak&scisig=AFWwaeYAAAAAZqAxP5VFtRU6tsWbvJmVTbHTufM&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Cite</a>
     </div>
   </div>
