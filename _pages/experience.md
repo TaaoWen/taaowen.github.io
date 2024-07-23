@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-- University of Manchester, Manchester<br>
+- The University of Manchester, Manchester<br>
   Integrated PhD and MSc in Data Analytics and Society<br>
   Supervised by Prof. Yu-wang Chen and Associate Prof. Tahir Abbas Syed
 - Singapore University of Technology and Design<br>
