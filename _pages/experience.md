@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-- The University of Manchester, Manchester<br>
+- The University of Manchester, Manchester, UK<br>
   Integrated PhD and MSc in Data Analytics and Society<br>
   Supervised by [Prof. Yu-wang Chen](https://research.manchester.ac.uk/en/persons/yu-wang.chen) and [Associate Prof. Tahir Abbas Syed](https://research.manchester.ac.uk/en/persons/tahirabbas.syed)
-- Singapore University of Technology and Design<br>
+- Singapore University of Technology and Design, Singapore<br>
   MEng. (Research) in Science, Mathematics & Technology<br>
   Supervised by [Associate Prof. Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319)
 - Northwestern Polytechnical University, Xi'an, China<br>
