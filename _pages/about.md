@@ -32,35 +32,47 @@ Featured Publications
 <div class="article-list">
 
   <div class="article-item">
-    <img src="/assets/TaoWeChat.png" alt="Article Image" class="article-image">
+    <div class="article-image-container">
+      <img src="/assets/TaoWeChat.png" alt="Article Image" class="article-image">
+    </div>
     <div class="article-details">
       <h3>题目：深度学习在生物信息学中的应用</h3>
       <p>作者：张三, 李四</p>
       <p>期刊：<em>国际生物信息学杂志</em>, 2024</p>
       
       <div class="article-buttons">
-        <a href="https://doi.org/10.1000/xyz123" class="btn">DOI</a>
-        <a href="/files/article1.bib" class="btn">引用 BIB 文件</a>
-        <a href="https://github.com/username/repo" class="btn">代码</a>
+        <a href="https://doi.org/10.1000/xyz123" class="btn" target="_blank">DOI</a>
+        <button class="btn" onclick="showBibModal('article1')">引用 BIB 文件</button>
+        <a href="https://github.com/username/repo" class="btn" target="_blank">代码</a>
       </div>
     </div>
   </div>
 
   <div class="article-item">
-    <img src="/images/article2.jpg" alt="Article Image" class="article-image">
+    <div class="article-image-container">
+      <img src="/images/article2.jpg" alt="Article Image" class="article-image">
+    </div>
     <div class="article-details">
       <h3>题目：机器学习优化算法的最新进展</h3>
       <p>作者：王五, 赵六</p>
       <p>期刊：<em>计算机科学与技术</em>, 2023</p>
       
       <div class="article-buttons">
-        <a href="https://doi.org/10.1000/xyz456" class="btn">DOI</a>
-        <a href="/files/article2.bib" class="btn">引用 BIB 文件</a>
-        <a href="https://github.com/username/repo" class="btn">代码</a>
+        <a href="https://doi.org/10.1000/xyz456" class="btn" target="_blank">DOI</a>
+        <button class="btn" onclick="showBibModal('article2')">引用 BIB 文件</button>
+        <a href="https://github.com/username/repo" class="btn" target="_blank">代码</a>
       </div>
     </div>
   </div>
 
+</div>
+
+<!-- BIB Modal -->
+<div id="bibModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeBibModal()">&times;</span>
+    <pre id="bibContent"></pre>
+  </div>
 </div>
 
 
