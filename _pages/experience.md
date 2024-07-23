@@ -10,13 +10,13 @@ author_profile: true
 
 - The University of Manchester, Manchester<br>
   Integrated PhD and MSc in Data Analytics and Society<br>
-  Supervised by Prof. Yu-wang Chen and Associate Prof. Tahir Abbas Syed
+  Supervised by [Prof. Yu-wang Chen](https://research.manchester.ac.uk/en/persons/yu-wang.chen) and [Associate Prof. Tahir Abbas Syed](https://research.manchester.ac.uk/en/persons/tahirabbas.syed)
 - Singapore University of Technology and Design<br>
   MEng. (Research) in Science, Mathematics & Technology<br>
-  Supervised by Prof. Kang Hao Cheong
+  Supervised by [Associate Prof. Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319)
 - Northwestern Polytechnical University, Xi'an, China<br>
   B.Eng. in Detection, Guidance and Control Technology<br>
-  Supervised by Prof. Wen Jiang and Prof. Yong Deng
+  Supervised by [Prof. Wen Jiang](https://teacher.nwpu.edu.cn/en/jiangwen.html) and [Prof. Yong Deng](https://en.uestc.edu.cn/info/1074/3243.htm)
 
 
 Experience
@@ -24,9 +24,9 @@ Experience
 - Jan. -- June 2024: The Alan Turing Institute, London, UK<br>
   Turing Enrichment Student
 - Feb. -- March 2023: University of Oxford, Oxford, UK<br>
-  Visiting PhD Student, supervised by Prof. Renaud Lambiotte (funded by Turing Exchange Fellowship)
+  Visiting PhD Student, supervised by [Prof. Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte) (funded by Turing Exchange Fellowship)
 - June -- Sep. 2019: University of Electronic Science and Technology of China, Chengdu, China<br>
-  Research Assistant, supervised by Prof. Yong Deng
+  Research Assistant, supervised by Prof. [Prof. Yong Deng](https://en.uestc.edu.cn/info/1074/3243.htm)
 - Jan. -- Feb. 2019: Australian National University, Canberra, Australia<br>
   Summer Session Course Project
 
