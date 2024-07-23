@@ -12,9 +12,9 @@ title                    : "Tao Wen"
 title_separator          : "-"
 name                     : &name "Tao Wen"
 description              : &description "Data Analytics and Society Ph.D. student"
-url                      : https://taaowen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://taaowen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TaaoWen/taaowen.github.io/"
+repository               : "TaaoWen/taaowen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
