@@ -29,52 +29,43 @@ News
 
 Featured Publications
 ======
-<div class="article-list">
-
-  <div class="article-item">
-    <div class="article-image-container">
-      <img src="/assets/TaoWeChat.png" alt="Article Image" class="article-image">
-    </div>
-    <div class="article-details">
-      <h3>题目：深度学习在生物信息学中的应用</h3>
-      <p>作者：张三, 李四</p>
-      <p>期刊：<em>国际生物信息学杂志</em>, 2024</p>
-      
-      <div class="article-buttons">
-        <a href="https://doi.org/10.1000/xyz123" class="btn" target="_blank">DOI</a>
-        <button class="btn" onclick="showBibModal('article1')">引用 BIB 文件</button>
-        <a href="https://github.com/username/repo" class="btn" target="_blank">代码</a>
-      </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
+    <img src="/assets/TaoWeChat.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin: 0;">题目：深度学习在生物信息学中的应用</h3>
+    <p style="margin: 5px 0;">作者：张三, 李四</p>
+    <p style="margin: 5px 0;">期刊：<em>国际生物信息学杂志</em>, 2024</p>
+    <div style="margin-top: 10px;">
+      <a href="https://doi.org/10.1000/xyz123" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="files/article1.bib" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">引用 BibTeX</a>
+      <a href="https://github.com/username/repo" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">代码</a>
     </div>
   </div>
+</div>
 
-  <div class="article-item">
-    <div class="article-image-container">
-      <img src="/assets/TaoWeChat.png" alt="Article Image" class="article-image">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
+    <img src="/assets/TaoWeChat.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin: 0;">题目：机器学习优化算法的最新进展</h3>
+    <p style="margin: 5px 0;">作者：王五, 赵六</p>
+    <p style="margin: 5px 0;">期刊：<em>计算机科学与技术</em>, 2023</p>
+    <div style="margin-top: 10px;">
+      <a href="https://doi.org/10.1000/xyz456" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="files/article2.bib" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">BibTeX</a>
+      <a href="https://github.com/username/repo" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">Code</a>
     </div>
-    <div class="article-details">
-      <h3>题目：机器学习优化算法的最新进展</h3>
-      <p>作者：王五, 赵六</p>
-      <p>期刊：<em>计算机科学与技术</em>, 2023</p>
-      
-      <div class="article-buttons">
+  </div>
+</div>
+
+      <!-- <div class="article-buttons">
         <a href="https://doi.org/10.1000/xyz456" class="btn" target="_blank">DOI</a>
         <button class="btn" onclick="showBibModal('article2')">引用 BIB 文件</button>
         <a href="https://github.com/username/repo" class="btn" target="_blank">代码</a>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<!-- BIB Modal -->
-<div id="bibModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeBibModal()">&times;</span>
-    <pre id="bibContent"></pre>
-  </div>
-</div>
-
+      </div> -->
 
 Contact
 ======
