@@ -14,7 +14,7 @@ author_profile: true
 1. Parrondo’s Paradox Reveals Counterintuitive Wins in Biology and Decision Making in Society<br>
     **Tao Wen**, Kang Hao Cheong. *Physics of Life Reviews*. 2024
 1. [ERIUE: Evidential Reasoning-based Influential Users Evaluation in Social Networks](https://doi.org/10.1016/j.omega.2023.102945)<br>
-   **Tao Wen**, Yu-wang Chen, Tahir Abbas Syed, Ting Wu. *Omega* (<u>Grade 3 journal</u>). 2024
+   **Tao Wen**, Yu-wang Chen, Tahir Abbas Syed, Ting Wu. *Omega* (<u>Grade 3 journal in ABS list</u>). 2024
 1. [How Flexible Parasites Can Outsmart Their Hosts for Evolutionary Dominance](https://doi.org/10.1103/PhysRevResearch.6.023104)<br>
    **Tao Wen**, Eugene V. Koonin, Kang Hao Cheong. *Physical Review Research*. 2024
 1. [Cooperation-guided Experts Importance Identification Model with Fuzzy Framework: A Network Design](https://doi.org/10.1109/TETCI.2024.3372410)<br>
@@ -30,9 +30,9 @@ author_profile: true
 1. [Multi-Objective Squirrel Search Algorithm for EEG Feature Selection](https://doi.org/10.1016/j.jocs.2023.102140)<br>
    Chao Wang, Songjie Li, Miao Shi, Jie Zhao, **Tao Wen**, U. Rajendra Acharya, Neng-gang Xie, Kang Hao Cheong. *Journal of Computational Science*. 2023
 1. [Extending the Lifespan of Multicellular Organisms via Periodic or Stochastic Intercellular Competition](https://doi.org/10.1103/PhysRevLett.128.218101)<br>
-   **Tao Wen**, Kang Hao Cheong, Joel Weijia Lai, Jin Ming Koh, Eugene V. Koonin. <u>*Physical Review Letters* (The Highest Impact Letter in Physics)</u> [\[Code\]](https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd). 2022
+   **Tao Wen**, Kang Hao Cheong, Joel Weijia Lai, Jin Ming Koh, Eugene V. Koonin. <u><i>Physical Review Letters</i> (The Highest Impact Letter in Physics)</u> [\[Code\]](https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd). 2022
 1. [Alternating Lysis and Lysogeny is a Winning Strategy in Bacteriophages due to Parrondo's Paradox](https://doi.org/10.1073/pnas.2115145119)<br>
-   Kang Hao Cheong\*, **Tao Wen**\*, Sean Benler, Jin Ming Koh, Eugene V. Koonin. <u>*Proceedings of the National Academy of Sciences*</u> [\[Code\]](https://osf.io/vth96/?view_only=c61c0a312ef04624acbeb41d071e70df). 2022
+   Kang Hao Cheong\*, **Tao Wen**\*, Sean Benler, Jin Ming Koh, Eugene V. Koonin. <u><i>Proceedings of the National Academy of Sciences</i></u> [\[Code\]](https://osf.io/vth96/?view_only=c61c0a312ef04624acbeb41d071e70df). 2022
 1. [Exploring the Vulnerability of Logistics Networks by Entropy: An Asia-Europe Maritime Transportation Network Case Study](https://doi.org/10.1016/j.ress.2022.108578)<br>
    **Tao Wen**, Qiuya Gao, Yu-wang Chen, Kang Hao Cheong. *Reliability Engineering & System Safety* (<u>Grade 3 journal</u>). 2022
 1. [A Review of Predator-Prey Systems with Dormancy of Predators](https://doi.org/10.1007/s11071-021-07083-x)<br>
@@ -44,7 +44,7 @@ author_profile: true
 1. [A Novel Network-based and Divergence-based Time Series Forecasting Method](https://doi.org/10.1016/j.ins.2022.08.120)<br>
    Qiuya Gao, **Tao Wen**, Yong Deng. *Information Sciences*. 2022
 1. [The Fractal Dimension of Complex Networks: A Review](https://doi.org/10.1016/j.inffus.2021.02.001)<br>
-   Tao Wen, Kang Hao Cheong. *Information Fusion* (<u>150+ citation, ESI 1% Highly Cited Paper</u>). 2021
+   **Tao Wen**, Kang Hao Cheong. *Information Fusion* (<u>150+ citation, ESI 1% Highly Cited Paper</u>). 2021
 1. [An Alternating Active-dormitive Strategy Enables Disadvantaged Prey to Outcompete the Perennially Active Prey through Parrondo’s Paradox](https://doi.org/10.1186/s12915-021-01097-y)<br>
    **Tao Wen**, Eugene V. Koonin, Kang Hao Cheong. *BMC Biology*. 2021
 1. [Information Volume Fractal Dimension](https://doi.org/10.1142/S0218348X21502637)<br>

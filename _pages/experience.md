@@ -33,8 +33,8 @@ Experience
 
 Services
 ======
-- Assist in organizing Decision and Cognitive Sciences Research Centre seminars.
-- Special Issue Editor on Mathematics (Data-driven Decision Making: Models, Methods and Applications).
+- Assist in organizing [Decision and Cognitive Sciences Research Centre](https://www.alliancembs.manchester.ac.uk/research/decision-and-cognitive-sciences-research-centre/) seminars.
+- Special Issue Editor on Mathematics ([Data-driven Decision Making: Models, Methods and Applications](https://www.mdpi.com/journal/mathematics/special_issues/Data_Driven_Decis_Mak)).
 - Journal Reviewer
   * *Communications Physics*
   * *Chaos: An Interdisciplinary Journal of Nonlinear Science*
