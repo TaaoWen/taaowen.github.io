@@ -34,6 +34,8 @@ Address: Room 3.128, Alliance Manchester Business School, Booth Street West, Man
 
 Email: [taaowen@gmail.com](mailto:taaowen@gmail.com)
 
+WeChat: [Scan Me](/assets/TaoWeChat.png)
+
 Twitter: [DM Me](https://x.com/TaoWen41247154)
 
 <div style="width: 100%; height: 400px;">
