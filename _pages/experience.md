@@ -15,7 +15,7 @@ author_profile: true
   MEng. (Research) in Science, Mathematics & Technology<br>
   Supervised by [Associate Prof. Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319)
 - Northwestern Polytechnical University, Xi'an, China<br>
-  B.Eng. in Detection, Guidance and Control Technology<br>
+  B.Eng. in System Engineering<br>
   Supervised by [Prof. Wen Jiang](https://teacher.nwpu.edu.cn/en/jiangwen.html) and [Prof. Yong Deng](https://en.uestc.edu.cn/info/1074/3243.htm)
 
 
