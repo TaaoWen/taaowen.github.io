@@ -34,13 +34,13 @@ Featured Publications
     <img src="/assets/TaoWeChat.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
-    <h3 style="margin: 0;">题目：深度学习在生物信息学中的应用</h3>
-    <p style="margin: 5px 0;">作者：张三, 李四</p>
-    <p style="margin: 5px 0;">期刊：<em>国际生物信息学杂志</em>, 2024</p>
+    <h3 style="margin: 0;">Extending the Lifespan of Multicellular Organisms via Periodic and Stochastic Intercellular Competition</h3>
+    <p style="margin: 5px 0;">**Tao Wen**, Kang Hao Cheong, Joel Weijia Lai, Jin Ming Koh, Eugene V. Koonin</p>
+    <p style="margin: 5px 0;"><i>Physical Review Letters</i>, 2024</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1000/xyz123" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">DOI</a>
-      <a href="files/article1.bib" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">引用 BibTeX</a>
-      <a href="https://github.com/username/repo" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">代码</a>
+      <a href="https://doi.org/10.1103/PhysRevLett.128.218101" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: white; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HPYlUqAWflEJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6HrwkqwEk:AFWwaeYAAAAAZqAs2EmeZPyWJnHtzOqgqdIQ_ms&scisig=AFWwaeYAAAAAZqAs2Gg_YbrBlH-oTmHk-gsxnsw&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: white; text-decoration: none; font-size: 0.9em;">BibTeX</a>
+      <a href="https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: white; text-decoration: none; font-size: 0.9em;">Code</a>
     </div>
   </div>
 </div>
@@ -54,18 +54,13 @@ Featured Publications
     <p style="margin: 5px 0;">作者：王五, 赵六</p>
     <p style="margin: 5px 0;">期刊：<em>计算机科学与技术</em>, 2023</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1000/xyz456" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">DOI</a>
-      <a href="files/article2.bib" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">BibTeX</a>
-      <a href="https://github.com/username/repo" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #007bff; color: white; text-decoration: none; font-size: 0.9em;">Code</a>
+      <a href="https://doi.org/10.1000/xyz456" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: white; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="files/article2.bib" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: white; text-decoration: none; font-size: 0.9em;">BibTeX</a>
+      <a href="https://github.com/username/repo" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: white; text-decoration: none; font-size: 0.9em;">Code</a>
     </div>
   </div>
 </div>
 
-      <!-- <div class="article-buttons">
-        <a href="https://doi.org/10.1000/xyz456" class="btn" target="_blank">DOI</a>
-        <button class="btn" onclick="showBibModal('article2')">引用 BIB 文件</button>
-        <a href="https://github.com/username/repo" class="btn" target="_blank">代码</a>
-      </div> -->
 
 Contact
 ======
