@@ -50,5 +50,3 @@ Twitter: [DM Me](https://x.com/TaoWen41247154)
     tabindex="0">
   </iframe>
 </div>
-
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2375.0599783424846!2d-2.23949742233841!3d53.4673881656587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb1ed5c9e3e1f%3A0xf49d1dba93bac80b!2sAlliance%20Manchester%20Business%20School!5e0!3m2!1sen!2suk!4v1721769496681!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
