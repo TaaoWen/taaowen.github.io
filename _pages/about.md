@@ -50,7 +50,7 @@ Featured Publications
 
   <div class="article-item">
     <div class="article-image-container">
-      <img src="/images/article2.jpg" alt="Article Image" class="article-image">
+      <img src="/assets/TaoWeChat.png" alt="Article Image" class="article-image">
     </div>
     <div class="article-details">
       <h3>题目：机器学习优化算法的最新进展</h3>
