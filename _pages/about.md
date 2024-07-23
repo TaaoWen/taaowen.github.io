@@ -29,6 +29,8 @@ News
 
 Featured Publications
 ======
+See the full list in <a href="{{[site.author.googlescholar](https://scholar.google.com/citations?hl=en&user=edoHbXEAAAAJ)}}">Google Scholar</a>.
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
     <img src="/images/ERIUE.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
