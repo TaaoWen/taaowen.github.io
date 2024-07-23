@@ -32,7 +32,7 @@ Featured Publications
 <div class="article-list">
 
   <div class="article-item">
-    <img src="/images/article1.jpg" alt="Article Image" class="article-image">
+    <img src="/assets/TaoWeChat.png" alt="Article Image" class="article-image">
     <div class="article-details">
       <h3>题目：深度学习在生物信息学中的应用</h3>
       <p>作者：张三, 李四</p>
