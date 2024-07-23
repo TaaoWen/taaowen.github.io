@@ -38,9 +38,9 @@ Featured Publications
     <p style="margin: 5px 0;"><b>Tao Wen</b>, Kang Hao Cheong, Joel Weijia Lai, Jin Ming Koh, Eugene V. Koonin</p>
     <p style="margin: 5px 0;"><i>Physical Review Letters</i>, 2024</p>
     <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1103/PhysRevLett.128.218101" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HPYlUqAWflEJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6HrwkqwEk:AFWwaeYAAAAAZqAs2EmeZPyWJnHtzOqgqdIQ_ms&scisig=AFWwaeYAAAAAZqAs2Gg_YbrBlH-oTmHk-gsxnsw&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">BibTeX</a>
-      <a href="https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd" target="_blank" style="display: inline-block; padding: 8px 12px; margin-right: 10px; border: 1px solid #007bff; border-radius: 4px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Code</a>
+      <a href="https://doi.org/10.1103/PhysRevLett.128.218101" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">DOI</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HPYlUqAWflEJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6HrwkqwEk:AFWwaeYAAAAAZqAs2EmeZPyWJnHtzOqgqdIQ_ms&scisig=AFWwaeYAAAAAZqAs2Gg_YbrBlH-oTmHk-gsxnsw&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Cite</a>
+      <a href="https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #007bff; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.9em;">Code</a>
     </div>
   </div>
 </div>
