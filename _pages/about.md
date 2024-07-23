@@ -18,6 +18,7 @@ News
 
 - **06/2024**. Paper has been accepted by *Physics of Life Reviews*.
 - **03/2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10473174) has been accepted by *IEEE Transactions on Emerging Topics in Computational Intelligence*.
+- **03/2024**. I received Turing Scheme Fellowship to visit [Prof. Yong-Yeol Ahn](https://yongyeol.com/) lab.
 - **05/2023**. I am delighted to join the 2023 [Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) at The Alan Turing Institute.
 - **09/2022**. I received Turing Exchange Fellowship to visit [Prof. Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte) lab.
 - **05/2022**. [Paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.218101) has been accepted by *Physical Review Letters*.
