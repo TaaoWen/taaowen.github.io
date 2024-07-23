@@ -27,6 +27,43 @@ News
 - **11/2019**. Our project 'Analysis of Fractal Characteristics of Complex Networks and Its Application' won the Special First Price in 'The Challenge Cup'. [\[Award List\]](https://www.tiaozhanbei.net/article/15729/)
 
 
+Featured Publications
+======
+<div class="article-list">
+
+  <div class="article-item">
+    <img src="/images/article1.jpg" alt="Article Image" class="article-image">
+    <div class="article-details">
+      <h3>题目：深度学习在生物信息学中的应用</h3>
+      <p>作者：张三, 李四</p>
+      <p>期刊：<em>国际生物信息学杂志</em>, 2024</p>
+      
+      <div class="article-buttons">
+        <a href="https://doi.org/10.1000/xyz123" class="btn">DOI</a>
+        <a href="/files/article1.bib" class="btn">引用 BIB 文件</a>
+        <a href="https://github.com/username/repo" class="btn">代码</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="article-item">
+    <img src="/images/article2.jpg" alt="Article Image" class="article-image">
+    <div class="article-details">
+      <h3>题目：机器学习优化算法的最新进展</h3>
+      <p>作者：王五, 赵六</p>
+      <p>期刊：<em>计算机科学与技术</em>, 2023</p>
+      
+      <div class="article-buttons">
+        <a href="https://doi.org/10.1000/xyz456" class="btn">DOI</a>
+        <a href="/files/article2.bib" class="btn">引用 BIB 文件</a>
+        <a href="https://github.com/username/repo" class="btn">代码</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
 Contact
 ======
 
