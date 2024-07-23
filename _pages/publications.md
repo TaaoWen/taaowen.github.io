@@ -12,7 +12,7 @@ author_profile: true
 \*: equal contributions
 
 1. Parrondo’s Paradox Reveals Counterintuitive Wins in Biology and Decision Making in Society<br>
-    **Tao Wen**, Kang Hao Cheong. *Physics of Life Reviews*. 2024
+    **Tao Wen**, Kang Hao Cheong. <u><i>Physics of Life Reviews</i></u>. 2024
 1. [ERIUE: Evidential Reasoning-based Influential Users Evaluation in Social Networks](https://doi.org/10.1016/j.omega.2023.102945)<br>
    **Tao Wen**, Yu-wang Chen, Tahir Abbas Syed, Ting Wu. *Omega* (<u>Grade 3 journal in ABS list</u>). 2024
 1. [How Flexible Parasites Can Outsmart Their Hosts for Evolutionary Dominance](https://doi.org/10.1103/PhysRevResearch.6.023104)<br>
