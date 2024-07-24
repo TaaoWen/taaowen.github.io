@@ -134,4 +134,6 @@ Twitter: [DM Me](https://x.com/TaoWen41247154)
 </div>
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GjJ92Wguyr_th8xlijnLdela1yEP5kGE5UCQK2Gzpv0"></script>
+<div id="clustrmaps-widget" style="width: 100px; height: 100px; overflow: hidden;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GjJ92Wguyr_th8xlijnLdela1yEP5kGE5UCQK2Gzpv0"></script>
+</div>
