@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad.
+<!-- - 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad. -->
 - 02/2024. The Turing Scheme
 - 06/2023. **Enrichment Scheme Placement Award** at The Alan Turing Institute
     * <small>Up to 55 awardees who are engaging in AI/ML across the UK</small>
