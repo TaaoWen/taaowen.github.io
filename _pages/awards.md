@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 - 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad.
+    * <small>Highest government award for overseas Chinese PhD students</small>
 - 06/2024. Support Fund from the Department of Social Statistics
 - 02/2024. The Turing Scheme
 - 06/2023. **Enrichment Scheme Placement Award** at The Alan Turing Institute
