@@ -49,7 +49,7 @@ See the full list in <a href="{{[site.author.googlescholar](https://scholar.goog
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
-    <img src="/images/ParrondoParadox.jpg" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="/images/ParrondoParadox.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin: 0;">Parrondo's paradox reveals counterintuitive wins in biology and decision making in society</h3>
