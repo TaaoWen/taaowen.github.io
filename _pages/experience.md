@@ -37,18 +37,23 @@ Services
 ======
 - Assist in organizing [Decision and Cognitive Sciences Research Centre](https://www.alliancembs.manchester.ac.uk/research/decision-and-cognitive-sciences-research-centre/) seminars.
 - Special Issue Editor on Mathematics ([Data-driven Decision Making: Models, Methods and Applications](https://www.mdpi.com/journal/mathematics/special_issues/Data_Driven_Decis_Mak)).
+- Session Chair
+  * 2024: International Conference on Automation and Computing
 - Journal Reviewer
   * *Communications Physics*
   * *Chaos: An Interdisciplinary Journal of Nonlinear Science*
+  * *European Physical Journal B*
   * *Humanities & Social Sciences Communications*
   * *IEEE Transactions on Neural Networks and Learning Systems*
   * *IEEE Transactions on Network Science and Engineering*
   * *IEEE Transactions on Signal and Information Processing over Networks*
   * *International Journal of Intelligent Systems*
+  * *International Journal of Modern Physics C*
   * *Journal of Computational Science*
+  * *Journal of Transport Geography*
   * *Physica A: Statistical Mechanics and Its Applications*
   * *Reliability Engineering & System Safety*
   * *Scientific Reports*
   * ...
 - Program Committee Member
-  * 2024: NeurIPS, NetSci
+  * 2024: NeurIPS, ICLR, NetSci, AISTATS, DASA

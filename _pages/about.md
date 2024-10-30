@@ -16,7 +16,8 @@ You can find [my CV here](../assets/CV_TaoWEN.pdf).
 News
 ======
 
-- **06/2024**. Paper has been accepted by *Physics of Life Reviews*.
+- **10/2024**. Paper has been accepted by *Journal of the Royal Society Interface*.
+- **06/2024**. [Paper](https://doi.org/10.1016/j.plrev.2024.08.002) has been accepted by *Physics of Life Reviews*.
 - **03/2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10473174) has been accepted by *IEEE Transactions on Emerging Topics in Computational Intelligence*.
 - **03/2024**. I received Turing Scheme Fellowship to visit [Prof. Yong-Yeol Ahn](https://yongyeol.com/) lab.
 - **05/2023**. I am delighted to join the 2023 [Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) at The Alan Turing Institute.
@@ -33,6 +34,36 @@ See the full list in <a href="{{[site.author.googlescholar](https://scholar.goog
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
+    <img src="/images/NamingGame.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin: 0;">Collective Effect of Self-learning and Social Learning on Language Dynamics: A Naming Game Approach in Social Networks</h3>
+    <p style="margin: 5px 0;"><b>Tao Wen</b>, Yu-wang Chen, Renaud Lambiotte</p>
+    <p style="margin: 5px 0;"><i>Journal of the Royal Society Interface</i>, 2025</p>
+    <!-- <div style="margin-top: 10px;">
+      <a href="https://doi.org/10.1016/j.plrev.2024.08.002" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ebEmntGHxgAJ:scholar.google.com/&output=citation&scisdr=ClEyMQQEEI6HrosRqqQ:AFWwaeYAAAAAZyIXsqQNVevP3_UMem_iNPjQQyk&scisig=AFWwaeYAAAAAZyIXsqHd8Oh-Y7V3ptyW1551A_s&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">Cite</a>
+    </div> -->
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
+    <img src="/images/ParrondoParadox.jpg" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin: 0;">Parrondo's paradox reveals counterintuitive wins in biology and decision making in society</h3>
+    <p style="margin: 5px 0;"><b>Tao Wen</b>, Kang Hao Cheong</p>
+    <p style="margin: 5px 0;"><i>Physics of Life Reviews</i>, 2024</p>
+    <div style="margin-top: 10px;">
+      <a href="https://doi.org/10.1016/j.plrev.2024.08.002" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ebEmntGHxgAJ:scholar.google.com/&output=citation&scisdr=ClEyMQQEEI6HrosRqqQ:AFWwaeYAAAAAZyIXsqQNVevP3_UMem_iNPjQQyk&scisig=AFWwaeYAAAAAZyIXsqHd8Oh-Y7V3ptyW1551A_s&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">Cite</a>
+    </div>
+  </div>
+</div>
+
+<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
     <img src="/images/ERIUE.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
@@ -44,7 +75,7 @@ See the full list in <a href="{{[site.author.googlescholar](https://scholar.goog
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:TCKWBpNYVaoJ:scholar.google.com/&output=citation&scisdr=ClEyMQQIEI6Hrwk32EA:AFWwaeYAAAAAZqAxwEDBuBD5SF5g8rByRxCewbU&scisig=AFWwaeYAAAAAZqAxwGfW1zjJyD_udaKIALHOG3w&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">Cite</a>
     </div>
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">

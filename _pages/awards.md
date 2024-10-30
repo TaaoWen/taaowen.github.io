@@ -7,14 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- - 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad. -->
+- 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad.
+- 06/2024. Support Fund from the Department of Social Statistics
 - 02/2024. The Turing Scheme
 - 06/2023. **Enrichment Scheme Placement Award** at The Alan Turing Institute
     * <small>Up to 55 awardees who are engaging in AI/ML across the UK</small>
 - 06/2023. Excellent paper award of 5th China and UK Forum of International Young Scholars in Manchester
 - 11/2022. **Turing Exchange Fellowship**
 - 09/2022. Excellent paper award of International Postgraduate Interdisciplinary Forum on Smart Shipping and Green Future
-- 04/2022. Decision and Cognitive Sciences Research Centre Support Fund
+- 04/2022. Support Fund from the Decision and Cognitive Sciences Research Centre
 - 09/2021. ESRC funded integrated PhD and MSc in Data Analytics and Society Scholarship
 - 09/2020. Singapore University of Technology and Design MEng (Research) Fellowship
 - 11/2019. The "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Contest: **Special First Prize** (Top 4%)
