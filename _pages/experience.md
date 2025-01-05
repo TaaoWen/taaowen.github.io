@@ -56,4 +56,5 @@ Services
   * *Scientific Reports*
   * ...
 - Program Committee Member
-  * 2024: NeurIPS, ICLR, NetSci, AISTATS, DASA
+  * 2025: ICML, ICLR, AISTATS, NetSci
+  * 2024: NeurIPS, NetSci, DASA

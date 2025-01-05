@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a ESRC funded [Data Analytics and Society](https://datacdt.org/) Ph.D. student in the [Alliance Manchester Business School](https://www.alliancembs.manchester.ac.uk/) at [The University of Manchester](https://www.manchester.ac.uk/), Manchester, UK. I am very fortunate to be advised by [Prof. Yu-wang Chen](https://www.research.manchester.ac.uk/portal/yu-wang.chen.html) and [Associate Prof. Tahir Abbas Syed](https://www.research.manchester.ac.uk/portal/tahirabbas.syed.html). My research interests are broadly in the intersection of network science, decision analytics, data analytics, Parrondo's paradox, and nonlinear dynamics.
+I am currently a ESRC funded [Data Analytics and Society](https://datacdt.org/) Ph.D. student in the [Alliance Manchester Business School](https://www.alliancembs.manchester.ac.uk/) at [The University of Manchester](https://www.manchester.ac.uk/), Manchester, UK. I am very fortunate to be advised by [Prof. Yu-wang Chen](https://www.research.manchester.ac.uk/portal/yu-wang.chen.html), [Associate Prof. Tahir Abbas Syed](https://www.research.manchester.ac.uk/portal/tahirabbas.syed.html), and industrial advisor, [Dr. Darminder Ghataoura](https://www.linkedin.com/in/darminder-singh-ghataoura-engd-291ab523/). My research interests are broadly in the intersection of network science, decision analytics, data analytics, Parrondo's paradox, and nonlinear dynamics.
 
 You can find [my CV here](../assets/CV_TaoWEN.pdf).
 
@@ -16,7 +16,8 @@ You can find [my CV here](../assets/CV_TaoWEN.pdf).
 News
 ======
 
-- **10/2024**. Paper has been accepted by *Journal of the Royal Society Interface*.
+- **12/2024**. [Paper](https://doi.org/10.1016/j.ejor.2024.12.015) has been accepted by *European Journal of Operational Research*.
+- **10/2024**. [Paper](https://doi.org/10.1098/rsif.2024.0406) has been accepted by *Journal of the Royal Society Interface*.
 - **06/2024**. [Paper](https://doi.org/10.1016/j.plrev.2024.08.002) has been accepted by *Physics of Life Reviews*.
 - **03/2024**. [Paper](https://ieeexplore.ieee.org/abstract/document/10473174) has been accepted by *IEEE Transactions on Emerging Topics in Computational Intelligence*.
 - **03/2024**. I received Turing Scheme Fellowship to visit [Prof. Yong-Yeol Ahn](https://yongyeol.com/) lab.
@@ -34,16 +35,31 @@ See the full list in <a href="{{[site.author.googlescholar](https://scholar.goog
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
+    <img src="/images/EJOR.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex-grow: 1;">
+    <h3 style="margin: 0;">Formulating opinion dynamics from belief formation, diffusion and updating in social network group decision-making: Towards developing a holistic framework</h3>
+    <p style="margin: 5px 0;"><b>Tao Wen</b>, Rui Zheng, Ting Wu, Zeyi Liu, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen</p>
+    <p style="margin: 5px 0;"><i>European Journal of Operational Research</i>, 2025</p>
+    <div style="margin-top: 10px;">
+      <a href="https://doi.org/10.1016/j.ejor.2024.12.015" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:swbEA29AgGQJ:scholar.google.com/&output=citation&scisdr=ClH-AV6kEJzwlsDVLiE:AFWwaeYAAAAAZ3nTNiG8KtVyLBn8BJeQw4-UoH4&scisig=AFWwaeYAAAAAZ3nTNg2xtrkhLdJ10v0k8Nive2E&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">Cite</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; width: 150px; height: 150px; overflow: hidden; margin-right: 20px;">
     <img src="/images/NamingGame.png" alt="Article Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin: 0;">Collective Effect of Self-learning and Social Learning on Language Dynamics: A Naming Game Approach in Social Networks</h3>
     <p style="margin: 5px 0;"><b>Tao Wen</b>, Yu-wang Chen, Renaud Lambiotte</p>
-    <p style="margin: 5px 0;"><i>Journal of the Royal Society Interface</i>, 2025</p>
-    <!-- <div style="margin-top: 10px;">
-      <a href="https://doi.org/10.1016/j.plrev.2024.08.002" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">PDF</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ebEmntGHxgAJ:scholar.google.com/&output=citation&scisdr=ClEyMQQEEI6HrosRqqQ:AFWwaeYAAAAAZyIXsqQNVevP3_UMem_iNPjQQyk&scisig=AFWwaeYAAAAAZyIXsqHd8Oh-Y7V3ptyW1551A_s&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">Cite</a>
-    </div> -->
+    <p style="margin: 5px 0;"><i>Journal of the Royal Society Interface</i>, 2024</p>
+    <div style="margin-top: 10px;">
+      <a href="https://doi.org/10.1098/rsif.2024.0406" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">PDF</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Okww34vWEy0J:scholar.google.com/&output=citation&scisdr=ClH-AV6kEJzwlsDUhms:AFWwaeYAAAAAZ3nSnmsvV4a3_1AH3OjeKn67ZWI&scisig=AFWwaeYAAAAAZ3nSnm8MPB8B0RuIwQmwhtxybRA&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="display: inline-block; padding: 4px 8px; margin-right: 10px; border: 1px solid #000000; border-radius: 5px; background-color: #F8F8FF; color: black; text-decoration: none; font-size: 0.7em;">Cite</a>
+    </div>
   </div>
 </div>
 
