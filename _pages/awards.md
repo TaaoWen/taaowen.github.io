@@ -7,12 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-- 01/2025. Travel Award from Mathematics.
-- 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad.
+- 04/2025. Scholarships for Events on Complex Systems from [yrCSS](https://yrcss.cssociety.org/)
+- 01/2025. Travel Award from [Mathematics](https://www.mdpi.com/journal/mathematics/awards/2638)
+- 07/2024. The Chinese Government Award for Outstanding Self-financed Students Abroad
     * <small>Highest government award for overseas Chinese PhD students</small>
 - 06/2024. Support Fund from the Department of Social Statistics
-- 02/2024. The Turing Scheme
-- 06/2023. **Enrichment Scheme Placement Award** at The Alan Turing Institute
+- 02/2024. **The Turing Scheme** (Support Placements for Postgraduate Researchers)
+- 06/2023. **Enrichment Scheme Placement Award** at [The Alan Turing Institute](https://www.turing.ac.uk/opportunities/doctoral-student-opportunities/phd-enrichment-scheme)
     * <small>Up to 55 awardees who are engaging in AI/ML across the UK</small>
 - 06/2023. Excellent paper award of 5th China and UK Forum of International Young Scholars in Manchester
 - 11/2022. **Turing Exchange Fellowship**
