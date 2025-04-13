@@ -13,23 +13,25 @@ author_profile: true
 \*: equal contributions
 
 
-<label for="yearSelect" style="display: inline-block; margin-right: 10px;">Year:</label>
-<select id="yearSelect" style="display: inline-block; margin-right: 20px;">
-  <option value="all">All</option>
-  <option value="2025">2025</option>
-  <option value="2024">2024</option>
-  <option value="2023">2023</option>
-  <!-- 依此类推 -->
-</select>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <label for="yearSelect">Year:</label>
+  <select id="yearSelect" style="margin-right: 20px;">
+    <option value="all">All</option>
+    <option value="2025">2025</option>
+    <option value="2024">2024</option>
+    <option value="2023">2023</option>
+    <!-- 依此类推 -->
+  </select>
 
-<label for="topicSelect" style="display: inline-block; margin-right: 10px;">Topic:</label>
-<select id="topicSelect" style="display: inline-block;">
-  <option value="all">All</option>
-  <option value="Social Networks">Social Networks</option>
-  <option value="Parrondo's Paradox">Parrondo's Paradox</option>
-  <option value="Maritime Networks">Decision-making</option>
-  <!-- 依此类推 -->
-</select>
+  <label for="topicSelect">Topic:</label>
+  <select id="topicSelect">
+    <option value="all">All</option>
+    <option value="Social Networks">Social Networks</option>
+    <option value="Parrondo's Paradox">Parrondo's Paradox</option>
+    <option value="Maritime Networks">Decision-making</option>
+    <!-- 依此类推 -->
+  </select>
+</div>
 
 
 <ol>
