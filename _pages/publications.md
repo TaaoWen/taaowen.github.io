@@ -200,27 +200,29 @@ author_profile: true
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const yearSelect = document.getElementById("yearSelect");
-  const topicSelect = document.getElementById("topicSelect");
-  const items = document.querySelectorAll("ol > li");
+  const yearSelect = document.getElementById('yearSelect');
+  const topicSelect = document.getElementById('topicSelect');
+  const publications = document.querySelectorAll('ol > li');
 
-  function filterItems() {
-    const year = yearSelect.value;
-    const topic = topicSelect.value;
+  function filterPublications() {
+    const selectedYear = yearSelect.value;
+    const selectedTopic = topicSelect.value;
 
-    items.forEach(item => {
-      const itemYear = item.getAttribute("data-year");
-      const itemTopics = item.getAttribute("data-topic").split(", ").map(t => t.trim()); // 拆分并去除多余空格
+    publications.forEach(pub => {
+      const year = pub.getAttribute('data-year');
+      const topics = pub.getAttribute('data-topic').split(',').map(t => t.trim());
 
-      const showYear = (year === "all" || itemYear === year);
-      const showTopic = (topic === "all" || itemTopics.includes(topic)); // 检查主题是否匹配
+      const matchYear = (selectedYear === 'all' || year === selectedYear);
+      const matchTopic = (selectedTopic === 'all' || topics.includes(selectedTopic));
 
-      item.style.display = (showYear && showTopic) ? "list-item" : "none";
+      if (matchYear && matchTopic) {
+        pub.style.display = '';
+      } else {
+        pub.style.display = 'none';
+      }
     });
   }
 
-  yearSelect.addEventListener("change", filterItems);
-  topicSelect.addEventListener("change", filterItems);
-});
+  yearSelect.addEventListener('change', filterPublications);
+  topicSelect.addEventListener('change', filterPublications);
 </script>
