@@ -16,9 +16,9 @@ author_profile: true
    **Tao Wen**, Rui Zheng, Ting Wu, Zeyi Liu, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen. <u><i>European Journal of Operational Research</i></u> (<u>Grade 4 journal in ABS list</u>). 2025
 2. [Examining communication network behaviors, structure and dynamics in an organizational hierarchy: A social network analysis approach](https://doi.org/10.1016/j.ipm.2024.103927)<br>
     **Tao Wen**, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. *Information Processing & Management*. 2025
-3. [Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.L012201)<br>
+3. [Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems](https://doi.org/10.1103/PhysRevE.111.L012201)<br>
     Kang Hao Cheong, Ankit Mishra, **Tao Wen**. *Physical Review E*. 2025
-4. Adaptive Strategy Automation with Large Language Models in Paradoxical Games<br>
+4. [Adaptive Strategy Automation with Large Language Models in Paradoxical Games](https://doi.org/10.1103/PhysRevResearch.7.L022012)<br>
    Kang Hao Cheong, Jie Zhao, **Tao Wen**. *Physical Review Research*. 2025
 5. [Collective Effect of Self-learning and Social Learning on Language Dynamics: A Naming Game Approach in Social Networks](https://doi.org/10.1098/rsif.2024.0406)<br>
     **Tao Wen**, Yu-wang Chen, Renaud Lambiotte. *Journal of the Royal Society Interface*. 2024
