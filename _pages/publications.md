@@ -31,30 +31,25 @@ author_profile: true
   <!-- 依此类推 -->
 </select>
 
-<div class="pub-item" data-year="2025" data-topic="Social Networks, Decision-making">
-   <ol>
-      <li>
-         <a href="https://doi.org/10.1016/j.ejor.2024.12.015">Formulating opinion dynamics from belief formation, diffusion and updating in social network group decision-making: Towards developing a holistic framework></a><br>
-         <strong>Tao Wen</strong>, Rui Zheng, Ting Wu, Zeyi Liu, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen. <u><i>European Journal of Operational Research</i></u> (<u>Grade 4 journal in ABS list</u>). 2025
-      </li>
-   </ol>
-</div>
-<div class="pub-item" data-year="2025" data-topic="Social Networks">
-   <ol>
-      <li>
-         <a href="https://doi.org/10.1016/j.ipm.2024.103927">Examining communication network behaviors, structure and dynamics in an organizational hierarchy: A social network analysis approach</a><br>
-         <strong>Tao Wen</strong>, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. <i>Information Processing & Management</i>. 2025
-      </li>
-   </ol>
-</div>
-<div class="pub-item" data-year="2024" data-topic="Parrondo's Paradox">
-   <ol>
-      <li>
-         <a href="https://doi.org/10.1103/PhysRevE.111.L012201">Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems</a><br>
-         Kang Hao Cheong, Ankit Mishra, <strong>Tao Wen</strong>. <i>Physical Review E</i>. 2025
-      </li>
-   </ol>
-</div>
+
+<ol>
+   <li data-year="2025" data-topic="Social Networks, Decision-making">
+      <a href="https://doi.org/10.1016/j.ejor.2024.12.015">Formulating opinion dynamics from belief formation, diffusion and updating in social network group decision-making: Towards developing a holistic framework></a><br>
+      <strong>Tao Wen</strong>, Rui Zheng, Ting Wu, Zeyi Liu, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen. <u><i>European Journal of Operational Research</i></u> (<u>Grade 4 journal in ABS list</u>). 2025
+   </li>
+   <li data-year="2025" data-topic="Social Networks">
+      <a href="https://doi.org/10.1016/j.ipm.2024.103927">Examining communication network behaviors, structure and dynamics in an organizational hierarchy: A social network analysis approach</a><br>
+      <strong>Tao Wen</strong>, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. <i>Information Processing & Management</i>. 2025
+   </li>
+   <li data-year="2024" data-topic="Parrondo's Paradox">
+      <a href="https://doi.org/10.1103/PhysRevE.111.L012201">Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems</a><br>
+      Kang Hao Cheong, Ankit Mishra, <strong>Tao Wen</strong>. <i>Physical Review E</i>. 2025
+   </li>
+</ol>
+
+
+
+
 
 1. [Adaptive Strategy Automation with Large Language Models in Paradoxical Games](https://doi.org/10.1103/PhysRevResearch.7.L022012)<br>
    Kang Hao Cheong, Jie Zhao, **Tao Wen**. *Physical Review Research*. 2025
@@ -127,7 +122,7 @@ author_profile: true
 document.addEventListener("DOMContentLoaded", function () {
   const yearSelect = document.getElementById("yearSelect");
   const topicSelect = document.getElementById("topicSelect");
-  const items = document.querySelectorAll(".pub-item");
+  const items = document.querySelectorAll("ol > li");
 
   function filterItems() {
     const year = yearSelect.value;
@@ -138,9 +133,9 @@ document.addEventListener("DOMContentLoaded", function () {
       const itemTopic = item.getAttribute("data-topic");
 
       const showYear = (year === "all" || itemYear === year);
-      const showTopic = (topic === "all" || itemTopic === topic);
+      const showTopic = (topic === "all" || itemTopic.includes(topic));
 
-      item.style.display = (showYear && showTopic) ? "block" : "none";
+      item.style.display = (showYear && showTopic) ? "list-item" : "none";
     });
   }
 
