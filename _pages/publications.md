@@ -82,7 +82,7 @@ author_profile: true
    </li>
    <li data-year="2024" data-topic="Time Series">
       <a href="https://ieeexplore.ieee.org/abstract/document/10718817">Forecasting Time Series through Motif Structure Analysis within Visibility Graph</a><br>
-      <strong>Tao Wen</strong>, Yu-Wang Chen. <i>2024 29th International Conference on Automation and Computing</i>. 2024
+      <strong>Tao Wen</strong>, Yu-Wang Chen. <i>29th International Conference on Automation and Computing</i>. 2024
    </li>
    <li data-year="2024" data-topic="Social Networks, Decision-Making">
       <a href="https://doi.org/10.1109/TETCI.2024.3372410">Cooperation-guided Experts Importance Identification Model with Fuzzy Framework: A Network Design</a><br>
