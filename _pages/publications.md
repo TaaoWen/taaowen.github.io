@@ -41,13 +41,13 @@ author_profile: true
 <div class="pub-item" data-year="2025" data-topic="Social Networks">
   <p>
    1. <a href="https://doi.org/10.1016/j.ipm.2024.103927"Examining communication network behaviors, structure and dynamics in an organizational hierarchy: A social network analysis approach</a><br>
-       <strong>Tao Wen</strong>, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. <u>Information Processing & Management</u>. 2025
+       <strong>Tao Wen</strong>, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. <i>Information Processing & Management</i>. 2025
   </p>
 </div>
 <div class="pub-item" data-year="2024" data-topic="Parrondo's Paradox">
   <p>
    1. <a href="https://doi.org/10.1103/PhysRevE.111.L012201"Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems</a><br>
-      Kang Hao Cheong, Ankit Mishra, <strong>Tao Wen</strong>. <u>Physical Review E</u>. 2025
+      Kang Hao Cheong, Ankit Mishra, <strong>Tao Wen</strong>. <i>Physical Review E</i>. 2025
   </p>
 </div>
 1. [Adaptive Strategy Automation with Large Language Models in Paradoxical Games](https://doi.org/10.1103/PhysRevResearch.7.L022012)<br>
