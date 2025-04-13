@@ -12,8 +12,8 @@ author_profile: true
 {% endif %}
 
 I have given contributed and invited talks on the following conferences and workshops:
-1. 6/2025. 34th European Conference on Operational Research (Leeds, UK)<br>
-2. 6/2025. International School and Conference on Network Science (NetSci) 2025 (Maastricht, the Netherlands)<br>
+1. 06/2025. 34th European Conference on Operational Research (Leeds, UK)<br>
+2. 06/2025. International School and Conference on Network Science (NetSci) 2025 (Maastricht, the Netherlands)<br>
 3. 12/2024. Decision and Cognitive Science Research Centre PhD Workshop (Manchester, UK)<br>
 4. 09/2024. Conference on Complex Systems (Exeter, UK)<br>
 5. 08/2024. 29th International Conference on Automation and Computing (Sunderland, UK)<br>
