@@ -80,6 +80,10 @@ author_profile: true
       <a href="https://doi.org/10.1103/PhysRevResearch.6.023104">How Flexible Parasites Can Outsmart Their Hosts for Evolutionary Dominance</a><br>
       <strong>Tao Wen</strong>, Eugene V. Koonin, Kang Hao Cheong. <i>Physical Review Research</i>. 2024
    </li>
+   <li data-year="2024" data-topic="Time Series">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10718817">Forecasting Time Series through Motif Structure Analysis within Visibility Graph</a><br>
+      <strong>Tao Wen</strong>, Yu-Wang Chen. <i>2024 29th International Conference on Automation and Computing</i>. 2024
+   </li>
    <li data-year="2024" data-topic="Social Networks, Decision-Making">
       <a href="https://doi.org/10.1109/TETCI.2024.3372410">Cooperation-guided Experts Importance Identification Model with Fuzzy Framework: A Network Design</a><br>
       Zeyi Liu*, <strong>Tao Wen</strong>*, Yong Deng, Hamido Fujita. <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>. 2024
