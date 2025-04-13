@@ -13,8 +13,8 @@ author_profile: true
 \*: equal contributions
 
 
-<label for="yearSelect">Year:</label>
-<select id="yearSelect">
+<label for="yearSelect" style="display: inline-block; margin-right: 10px;">Year:</label>
+<select id="yearSelect" style="display: inline-block; margin-right: 20px;">
   <option value="all">All</option>
   <option value="2025">2025</option>
   <option value="2024">2024</option>
@@ -22,8 +22,8 @@ author_profile: true
   <!-- 依此类推 -->
 </select>
 
-<label for="topicSelect">Topic:</label>
-<select id="topicSelect">
+<label for="topicSelect" style="display: inline-block; margin-right: 10px;">Topic:</label>
+<select id="topicSelect" style="display: inline-block;">
   <option value="all">All</option>
   <option value="Social Networks">Social Networks</option>
   <option value="Parrondo's Paradox">Parrondo's Paradox</option>
@@ -31,25 +31,31 @@ author_profile: true
   <!-- 依此类推 -->
 </select>
 
-
 <div class="pub-item" data-year="2025" data-topic="Social Networks, Decision-making">
-  <p>
-   1. <a href="https://doi.org/10.1016/j.ejor.2024.12.015"Formulating opinion dynamics from belief formation, diffusion and updating in social network group decision-making: Towards developing a holistic framework></a><br>
-      <strong>Tao Wen</strong>, Rui Zheng, Ting Wu, Zeyi Liu, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen. <u><i>European Journal of Operational Research</i></u> (<u>Grade 4 journal in ABS list</u>). 2025
-  </p>
+   <ol>
+      <li>
+         <a href="https://doi.org/10.1016/j.ejor.2024.12.015">Formulating opinion dynamics from belief formation, diffusion and updating in social network group decision-making: Towards developing a holistic framework></a><br>
+         <strong>Tao Wen</strong>, Rui Zheng, Ting Wu, Zeyi Liu, Mi Zhou, Tahir Abbas Syed, Darminder Ghataoura, Yu-wang Chen. <u><i>European Journal of Operational Research</i></u> (<u>Grade 4 journal in ABS list</u>). 2025
+      </li>
+   </ol>
 </div>
 <div class="pub-item" data-year="2025" data-topic="Social Networks">
-  <p>
-   1. <a href="https://doi.org/10.1016/j.ipm.2024.103927"Examining communication network behaviors, structure and dynamics in an organizational hierarchy: A social network analysis approach</a><br>
-       <strong>Tao Wen</strong>, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. <i>Information Processing & Management</i>. 2025
-  </p>
+   <ol>
+      <li>
+         <a href="https://doi.org/10.1016/j.ipm.2024.103927">Examining communication network behaviors, structure and dynamics in an organizational hierarchy: A social network analysis approach</a><br>
+         <strong>Tao Wen</strong>, Yu-wang Chen, Tahir Abbas Syed, Darminder Ghataoura. <i>Information Processing & Management</i>. 2025
+      </li>
+   </ol>
 </div>
 <div class="pub-item" data-year="2024" data-topic="Parrondo's Paradox">
-  <p>
-   1. <a href="https://doi.org/10.1103/PhysRevE.111.L012201"Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems</a><br>
-      Kang Hao Cheong, Ankit Mishra, <strong>Tao Wen</strong>. <i>Physical Review E</i>. 2025
-  </p>
+   <ol>
+      <li>
+         <a href="https://doi.org/10.1103/PhysRevE.111.L012201">Strategic Variability in Routing: Enhancing Network Performance in Two-layer Traffic Systems</a><br>
+         Kang Hao Cheong, Ankit Mishra, <strong>Tao Wen</strong>. <i>Physical Review E</i>. 2025
+      </li>
+   </ol>
 </div>
+
 1. [Adaptive Strategy Automation with Large Language Models in Paradoxical Games](https://doi.org/10.1103/PhysRevResearch.7.L022012)<br>
    Kang Hao Cheong, Jie Zhao, **Tao Wen**. *Physical Review Research*. 2025
 2. [Collective Effect of Self-learning and Social Learning on Language Dynamics: A Naming Game Approach in Social Networks](https://doi.org/10.1098/rsif.2024.0406)<br>
