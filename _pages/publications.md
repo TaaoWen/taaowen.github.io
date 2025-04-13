@@ -132,10 +132,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     items.forEach(item => {
       const itemYear = item.getAttribute("data-year");
-      const itemTopic = item.getAttribute("data-topic");
+      const itemTopics = item.getAttribute("data-topic").split(", ").map(t => t.trim()); // 拆分并去除多余空格
 
       const showYear = (year === "all" || itemYear === year);
-      const showTopic = (topic === "all" || itemTopic.includes(topic));
+      const showTopic = (topic === "all" || itemTopics.includes(topic)); // 检查主题是否匹配
 
       item.style.display = (showYear && showTopic) ? "list-item" : "none";
     });
