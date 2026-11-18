@@ -1,0 +1,76 @@
+name: Build and publish academic homepage
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '19 7 * * *'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.citations.outputs.ready }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - uses: actions/cache/restore@v4
+        with:
+          path: .scholar-cache/citations.json
+          key: scholar-v2-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: scholar-v2-
+      - name: Read Google Scholar
+        id: citations
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: |
+          if python scripts/refresh_scholar.py .scholar-cache/citations.json; then
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          elif [ "$GITHUB_EVENT_NAME" != "schedule" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/cache/save@v4
+        if: steps.citations.outputs.updated == 'true'
+        with:
+          path: .scholar-cache/citations.json
+          key: scholar-v2-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Build pages
+        if: steps.citations.outputs.ready == 'true'
+        run: |
+          pip install -r requirements.txt
+          if [ -f .scholar-cache/citations.json ]; then
+            python -c 'from pathlib import Path; from scripts.refresh_scholar import freshest_snapshot, SEED; import json; SEED.write_text(json.dumps(freshest_snapshot(Path(".scholar-cache/citations.json")), ensure_ascii=False))'
+          fi
+          python build.py
+      - uses: actions/configure-pages@v5
+        if: steps.citations.outputs.ready == 'true'
+      - uses: actions/upload-pages-artifact@v4
+        if: steps.citations.outputs.ready == 'true'
+        with:
+          path: dist
+
+  publish:
+    needs: build
+    if: needs.build.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
