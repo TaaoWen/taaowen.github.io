@@ -320,7 +320,8 @@
       "role": "Lead Guest Editor",
       "name": "Information Processing & Management",
       "detail": "Explainable AI and Network Science for Social Systems and Collective Intelligence (with Xinyi Zhou, Richard Allmendinger, and Kang Hao Cheong)",
-      "url": "https://www.sciencedirect.com/journal/information-processing-and-management"
+      "url": "https://www.sciencedirect.com/journal/information-processing-and-management",
+      "url_detail": "https://www.sciencedirect.com/special-issue/332020/explainable-ai-and-network-science-for-social-systems-and-collective-intelligence"
     },
     {
       "year": 2023,
@@ -328,7 +329,8 @@
       "role": "Guest Editor Assistant",
       "name": "Mathematics",
       "detail": "Data-driven Decision Making: Models, Methods and Applications (with Yu-wang Chen and Mi Zhou)",
-      "url": "https://www.mdpi.com/journal/mathematics"
+      "url": "https://www.mdpi.com/journal/mathematics",
+      "url_detail": "https://www.mdpi.com/journal/mathematics/special_issues/Data_Driven_Decis_Mak_2nd"
     }
   ],
   "chairing": [
@@ -371,17 +373,23 @@
       "Knowledge-Based Systems",
       "Information Technology & People",
       "Information Processing & Management",
-      "International Journal of Modern Physics C"
+      "International Journal of Modern Physics C",
+      "Humanities and Social Sciences Communications"
     ],
     "2024": [
       "Humanities and Social Sciences Communications",
       "The European Physical Journal B",
-      "Journal of Transport Geography"
+      "Journal of Transport Geography",
+      "IEEE Transactions on Neural Networks and Learning Systems",
+      "IEEE Transactions on Network Science and Engineering",
+      "International Journal of Modern Physics C"
     ],
     "2023": [
       "IEEE Transactions on Neural Networks and Learning Systems",
       "IEEE Transactions on Network Science and Engineering",
-      "International Journal of Modern Physics C"
+      "International Journal of Modern Physics C",
+      "Reliability Engineering & System Safety",
+      "Journal of Computational Science"
     ],
     "2022": [
       "Reliability Engineering & System Safety",

@@ -4,9 +4,18 @@
   <h1>Services</h1>
   <section class="content-section" aria-labelledby="editorial">
     <h2 id="editorial">Editorial Roles</h2>
+
     <ul class="compact-list">
       {% for item in career.editorial %}
-        <li><div><strong>{{ item.role }}</strong><span class="section-dot"> · </span>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}{% if item.detail %}<p>{{ item.detail }}</p>{% endif %}</div><span class="record-date">{{ item.date }}</span></li>
+        <li>
+          <div>
+            <strong>{{ item.role }}</strong><span class="section-dot"> · </span>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}
+            {% if item.detail %}
+              <p>{% if item.urldetail %}<a href="{{ item.urldetail }}" target="_blank" rel="noopener">{{ item.detail }}</a>{% else %}{{ item.detail }}{% endif %}</p>
+            {% endif %}
+          </div>
+          <span class="record-date">{{ item.date }}</span>
+        </li>
       {% endfor %}
     </ul>
   </section>
