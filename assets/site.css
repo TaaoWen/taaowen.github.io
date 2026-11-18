@@ -541,7 +541,6 @@ p { margin: 0 0 13px; }
 .scholar-summary strong { font-weight: 750; font-variant-numeric: tabular-nums; }
 .scholar-date { color: var(--muted); font-size: 11.5px; }
 .selected-scholar-summary { margin: 8px 0 4px; }
-.student-author { text-decoration: underline; text-underline-offset: .15em; text-decoration-thickness: 1px; }
 .author-legend {
   display: flex;
   flex-wrap: wrap;

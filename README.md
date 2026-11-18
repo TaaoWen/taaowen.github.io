@@ -8,7 +8,7 @@ Add or update entries in [data/publications.bib](data/publications.bib). The sit
 
 Place an original image in `assets/media/papers/`, using the BibTeX key as the filename. For example, `wen2022lifespan.png` replaces the image for that paper. The page overlays the blue journal abbreviation. Supported extensions are `.webp`, `.png`, `.jpg` and `.jpeg`. Abbreviations are in [data/venues.json](data/venues.json).
 
-Optional paper details are stored by lowercase DOI in [data/publication-details.json](data/publication-details.json). Set a numeric `selected` value to order a work on About Me. The same record can contain `figure_alt`, `pdf`, `code`, `press`, `theme`, `equal_authors` and `corresponding_authors`. The Publications legend explains † for co-first authors, * for corresponding authors and the underline for supervised students. Update `supervised_authors` in [data/profile.json](data/profile.json).
+Optional paper details are stored by lowercase DOI in [data/publication-details.json](data/publication-details.json). Set a numeric `selected` value to order a work on About Me. The same record can contain `figure_alt`, `pdf`, `code`, `press`, `theme`, `equal_authors` and `corresponding_authors`. The Publications legend explains † for co-first authors, * for corresponding authors and ‡ for supervised students. Update `supervised_authors` in [data/profile.json](data/profile.json).
 
 ## Citation counts
 
@@ -48,6 +48,6 @@ The generated website is in `dist/`. You can serve those files on another static
 
 ## Media credits
 
-The portrait is from [Tao Wen’s University of Manchester profile](https://research.manchester.ac.uk/en/persons/tao-wen/). Institutional and service logos identify affiliations and links. Google Scholar and GitHub icons are from their official favicons. The ORCID iD mark is from ORCID. The LinkedIn brand mark is sourced from Wikimedia Commons. The envelope icon is from [Font Awesome](https://fontawesome.com/license/free) under CC BY 4.0.
+Institutional and service logos identify affiliations and links. Google Scholar and GitHub icons are from their official favicons. The ORCID iD mark is from ORCID. The LinkedIn brand mark is sourced from Wikimedia Commons. The envelope icon is from [Font Awesome](https://fontawesome.com/license/free) under CC BY 4.0.
 
 Credited paper figures are listed in [assets/figure-credits.txt](assets/figure-credits.txt). Inter, Noto Sans SC, D3 and Leaflet redistribution notices are included with those assets. Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
