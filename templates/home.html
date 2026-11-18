@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% from "paper.html" import paper %}
+{% block content %}
+  <section class="bio" aria-labelledby="about">
+    <h1 id="about">About Me</h1>
+    {% for paragraph in profile.bio %}<p>{{ paragraph|safe }}</p>{% endfor %}
+  </section>
+  <section class="home-section" aria-labelledby="news">
+    <h2 id="news">News</h2>
+    <ul class="news-list">
+      {% for item in career.news %}
+        <li><time datetime="{{ item.date }}">{{ item.date|date_label }}</time><p>{{ item.text }}{% if item.url %} <a class="inline-link" href="{{ item.url }}" target="_blank" rel="noopener">{{ item.link_text }} →</a>{% endif %}</p></li>
+      {% endfor %}
+    </ul>
+  </section>
+  <section class="home-section" aria-labelledby="selected">
+    <div class="section-heading"><h2 id="selected">Selected Publications</h2><a href="{{ base }}publication/">All publications <span aria-hidden="true">→</span></a></div>
+    <div class="scholar-summary selected-scholar-summary">
+      <a href="{{ profile.scholar_url }}" target="_blank" rel="noopener">
+        <img src="{{ base }}assets/icons/scholar.webp" alt="" width="20" height="20">
+        <span><strong>{{ scholar.total|count_format }}</strong> citations on Google Scholar</span>
+      </a>
+      <span class="scholar-date">
+        {% if scholar.scope == 'supplied' %}Across listed works{% else %}Profile total{% endif %}
+        <span aria-hidden="true"> · </span><time datetime="{{ scholar.as_of }}">{{ scholar.as_of|date_label }}</time>
+      </span>
+    </div>
+    <div class="paper-list">
+      {% for item in selected %}{{ paper(item, base, true) }}{% endfor %}
+    </div>
+  </section>
+  <section class="home-section" aria-labelledby="experience-education">
+    <h2 id="experience-education">Experience &amp; Education</h2>
+    {% for heading, records in [('Experience', career.experience), ('Education', career.education)] %}
+      <h3 class="timeline-heading">{{ heading }}</h3>
+      <ol class="career-timeline">
+        {% for item in records %}
+        <li>
+          <div class="institution-logo">
+            {% if item.image %}<img src="{{ base }}{{ item.image }}" alt="" loading="lazy" width="76" height="50">
+            {% else %}<span aria-hidden="true">{{ item.logo|upper }}</span>{% endif %}
+          </div>
+          <div class="timeline-body"><h4><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.institution }}</a></h4><p>{{ item.role }}</p></div>
+          <span class="record-date">{{ item.date }}</span>
+        </li>
+        {% endfor %}
+      </ol>
+    {% endfor %}
+  </section>
+  <section class="home-section" aria-labelledby="home-service">
+    <div class="section-heading"><h2 id="home-service">Editorial Service</h2><a href="{{ base }}services/">All services <span aria-hidden="true">→</span></a></div>
+    <ul class="compact-list">
+      {% for item in career.editorial if item.selected %}
+        <li><div><strong>{{ item.role }}</strong><span class="section-dot"> · </span>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</div><span class="record-date">{{ item.date }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+  <section class="home-section" aria-labelledby="home-awards">
+    <div class="section-heading"><h2 id="home-awards">Selected Awards</h2><a href="{{ base }}awards/">All awards <span aria-hidden="true">→</span></a></div>
+    <ul class="compact-list">
+      {% for item in career.awards if item.selected %}
+        <li><div>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}{% if item.organisation %}<p>{{ item.organisation }}</p>{% endif %}</div><span class="record-date">{{ item.year }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endblock %}

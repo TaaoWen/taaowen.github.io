@@ -1,0 +1,34 @@
+Publication thumbnails
+
+prl-2022.webp
+Wen, Cheong, Lai, Koh and Koonin (2022), Physical Review Letters, Figure 1.
+https://doi.org/10.1103/PhysRevLett.128.218101
+CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Cropped from the article PDF and resized.
+
+pnas-2022.webp
+Cheong, Wen, Benler, Koh and Koonin (2022), PNAS, Figure 4.
+https://doi.org/10.1073/pnas.2115145119
+CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). Complete figure, resized for display.
+
+ejor-2025.webp
+Wen, Zheng, Wu, Liu, Zhou, Syed, Ghataoura and Chen (2025), European Journal of Operational Research, Figure 1.
+https://doi.org/10.1016/j.ejor.2024.12.015
+CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). Complete figure, resized for display.
+
+life-reviews-2024.webp
+Original conceptual illustration of strategy switching. It contains no article figure or numerical results.
+
+interface-2024.webp
+Wen, Chen and Lambiotte (2024), Journal of the Royal Society Interface, Figure 1.
+https://doi.org/10.1098/rsif.2024.0406
+CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Complete figure, resized for display.
+
+ejor-2026.webp
+Wen, Chen, Ma, Syed and De (2026), European Journal of Operational Research, Figure 1.
+https://doi.org/10.1016/j.ejor.2026.07.006
+CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Resized for display.
+
+deepfakes-2025.webp
+Abraham, Wen, Wu and Chen (2025), Humanities and Social Sciences Communications, Figure 1.
+https://doi.org/10.1057/s41599-025-05389-4
+CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Resized for display.

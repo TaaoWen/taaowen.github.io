@@ -1,0 +1,191 @@
+{
+  "people": {
+    "Richard Allmendinger": {
+      "url": "https://research.manchester.ac.uk/en/persons/richard.allmendinger/",
+      "project_affiliation": "The University of Manchester"
+    },
+    "Yu-wang Chen": {
+      "group": "chen",
+      "aliases": [
+        "Yu-Wang Chen",
+        "Yu Wang Chen"
+      ],
+      "url": "https://research.manchester.ac.uk/en/persons/yu-wang.chen/"
+    },
+    "Tahir Abbas Syed": {
+      "group": "chen",
+      "aliases": [
+        "Tahir A. Syed"
+      ]
+    },
+    "Arijit De":{
+      "group": "chen",
+      "url": "https://research.manchester.ac.uk/en/persons/arijit.de"
+    },
+    "Darminder Ghataoura": {
+      "aliases": [
+        "Darminder S. Ghataoura",
+        "Darminder Singh Ghataoura"
+      ]
+    },
+    "Renaud Lambiotte": {
+      "group": "chen",
+      "url": "https://www.maths.ox.ac.uk/people/renaud.lambiotte"
+    },
+    "Kang Hao Cheong": {
+      "group": "cheong",
+      "aliases": [
+        "Kang-Hao Cheong"
+      ],
+      "url": "https://sites.google.com/view/prof-cheongs-group/home"
+    },
+    "Eugene V. Koonin":{
+      "group": "cheong",
+      "url": "https://irp.nih.gov/pi/eugene-koonin"
+    },
+    "Andrea Civilini":{
+      "group": "cheong",
+      "project_affiliation": "Queen Mary University of London"
+    },
+    "Jiayi Kang": {
+      "group": "cheong",
+      "project_affiliation": "Hetao Institute of Mathematics and Interdisciplinary Sciences",
+      "url": "https://bimsa.net/people/JiayiKang/"
+    },
+    "Vito Latora": {
+      "group": "cheong",
+      "project_affiliation": "Queen Mary University of London",
+      "url": "https://www.qmul.ac.uk/maths/profiles/latorav.html"
+    },
+    "Jinde Cao":{
+      "group": "cheong",
+      "url": "https://www.ae-info.org/ae/Member/Cao_Jinde"
+    },
+    "Jie Zhao": {
+      "group": "cheong",
+      "url": "https://math.seu.edu.cn/zj/list.htm"
+    },
+    "Yong Deng": {
+      "group": "deng"
+    },
+    "Wen Jiang": {
+      "group": "deng"
+    },
+    "Hamido Fujita":{
+      "group": "deng",
+      "url": "https://www.utm.my/directory/staff/fujitahamido"
+    },
+    "Zeyi Liu":{
+      "group": "deng",
+      "url": "https://liuzy0708.com/"
+    },
+    "Danilo Pelusi":{
+      "group": "deng",
+      "url": "https://www.unite.it/UniTE/Home/Docenti/Docente/Doc/dpelusi"
+    },
+    "Changchun Pan": {
+      "group": "chen"
+    },
+    "Tomas Diviak": {
+      "url": "https://research.manchester.ac.uk/en/persons/tomas.diviak/",
+      "project_affiliation": "The University of Manchester",
+      "aliases": [
+        "Tomáš Diviák"
+      ]
+    },
+    "Hadi Akbarzadeh Khorshidi": {
+      "project_affiliation": "The University of Melbourne",
+      "url": "https://optima.org.au/staff/dr-hadi-akbarzadeh-khorshidi/"
+    },
+    "Marc Cheong": {
+      "project_affiliation": "The University of Melbourne",
+      "url": "https://www.unimelb.edu.au/caide/people/theme-leaders/marc-cheong"
+    },
+    "Amir Ebrahimi Fard": {
+      "project_affiliation": "Ofcom",
+      "url": "https://sites.google.com/view/ebrahimifard"
+    },
+    "Tony Mathew Abraham": {
+      "aliases": [
+        "Tony Abraham",
+        "Tony M. Abraham"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "name": "Trustworthy AI for Misinformation-driven Opinion Dynamics and Digital Governance",
+      "programme": "Global Scholars Fund",
+      "year": 2026,
+      "participants": [
+        "Richard Allmendinger",
+        "Yu-wang Chen",
+        "Tomas Diviak",
+        "Hadi Akbarzadeh Khorshidi",
+        "Marc Cheong"
+      ],
+      "id": "manchester-melbourne",
+      "funding": "£5,000",
+      "role": "Principal investigator",
+      "description": "A Manchester–Melbourne collaboration modelling how misinformation affects opinions and exploring how trustworthy AI can support the governance of online platforms.",
+      "theme": "social"
+    },
+    {
+      "name": "Misinformation Diffusion Detection and Containment in Large-scale Online Social Networks",
+      "programme": "AWS/RONIN Cloud Research Proofs of Concept Grant",
+      "year": 2026,
+      "participants": [
+        "Richard Allmendinger",
+        "Yu-wang Chen"
+      ],
+      "id": "misinformation-containment",
+      "funding": "US$2,000",
+      "role": "Principal investigator",
+      "description": "A cloud research proof of concept for detecting misinformation diffusion and evaluating ways to contain it in large online social networks.",
+      "theme": "social"
+    },
+    {
+      "name": "Algorithmic Mediation of Harm in Online Services: The Role of Search and Recommender Systems in the Diffusion",
+      "programme": "Simon Industrial & Professional Fellowship",
+      "year": 2026,
+      "participants": [
+        "Amir Ebrahimi Fard",
+        "Richard Allmendinger",
+        "Yu-wang Chen"
+      ],
+      "id": "algorithmic-mediation",
+      "funding": "£3,500",
+      "role": "Host",
+      "description": "A fellowship examining how search and recommender systems mediate the diffusion of harmful content in online services.",
+      "theme": "social"
+    }
+  ],
+  "groups": [
+    {
+      "id": "cheong",
+      "label": "Kang Hao Cheong collaboration group",
+      "colour": "#76528a",
+      "anchors": [
+        "Kang Hao Cheong"
+      ]
+    },
+    {
+      "id": "chen",
+      "label": "Yu-wang Chen & Tahir Abbas Syed group",
+      "colour": "#247b83",
+      "anchors": [
+        "Yu-wang Chen",
+        "Tahir Abbas Syed"
+      ]
+    },
+    {
+      "id": "deng",
+      "label": "Yong Deng & Wen Jiang group",
+      "colour": "#b26532",
+      "anchors": [
+        "Yong Deng",
+        "Wen Jiang"
+      ]
+    }
+  ]
+}

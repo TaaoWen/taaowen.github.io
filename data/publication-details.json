@@ -1,0 +1,320 @@
+{
+  "10.1103/physrevlett.128.218101": {
+    "selected": 1,
+    "topic": "Intercellular competition; Parrondo’s paradox",
+    "figure": "assets/media/prl-2022.webp",
+    "figure_alt": "Phase diagram of periodic and stochastic intercellular competition adapted from Wen and colleagues, Physical Review Letters (2022), CC BY 4.0.",
+    "pdf": "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.128.218101",
+    "code": "https://osf.io/z5c8k/?view_only=d2864977225147049f5bea6539f89dbd",
+    "scholar_id": "edoHbXEAAAAJ:QIV2ME_5wuYC",
+    "published_date": "2022-05-27",
+    "theme": "complex"
+  },
+  "10.1073/pnas.2115145119": {
+    "selected": 2,
+    "topic": "Bacteriophages; Parrondo’s paradox",
+    "figure": "assets/media/pnas-2022.webp",
+    "figure_alt": "Figure 4 of Cheong and colleagues, PNAS (2022), showing phage population dynamics under different lysis–lysogeny probabilities. CC BY-NC-ND 4.0.",
+    "pdf": "https://europepmc.org/articles/PMC9060511?pdf=render",
+    "code": "https://osf.io/vth96/?view_only=c61c0a312ef04624acbeb41d071e70df",
+    "equal_authors": [
+      "Kang Hao Cheong",
+      "Tao Wen"
+    ],
+    "scholar_id": "edoHbXEAAAAJ:IWHjjKOFINEC",
+    "published_date": "2022-03-22",
+    "theme": "complex"
+  },
+  "10.1016/j.ejor.2024.12.015": {
+    "selected": 3,
+    "topic": "Opinion dynamics; belief formation; group decision-making",
+    "type": "Review article",
+    "figure": "assets/media/ejor-2025.webp",
+    "figure_alt": "Figure 1 of Wen and colleagues, European Journal of Operational Research (2025), CC BY-NC-ND 4.0.",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S0377221724009573/pdfft?isDTMRedir=true&download=true",
+    "scholar_id": "edoHbXEAAAAJ:NaGl4SEjCO4C",
+    "published_date": "2025-09-01",
+    "theme": "social"
+  },
+  "10.1016/j.plrev.2024.08.002": {
+    "selected": 4,
+    "topic": "Parrondo’s paradox; decision-making",
+    "type": "Review article",
+    "figure": "assets/media/life-reviews-2024.webp",
+    "figure_alt": "Conceptual illustration of alternating two strategies, A and B.",
+    "scholar_id": "edoHbXEAAAAJ:NMxIlDl6LWMC",
+    "published_date": "2024-12-01",
+    "theme": "complex"
+  },
+  "10.1098/rsif.2024.0406": {
+    "selected": 5,
+    "topic": "Naming game; language dynamics; social learning",
+    "figure": "assets/media/interface-2024.webp",
+    "figure_alt": "Figure 1 of Wen, Chen and Lambiotte, Journal of the Royal Society Interface (2024), illustrating the framework of the naming game in a social network. CC BY 4.0.",
+    "pdf": "https://europepmc.org/articles/PMC11615964?pdf=render",
+    "code": "https://doi.org/10.5281/zenodo.13886003",
+    "scholar_id": "edoHbXEAAAAJ:hMod-77fHWUC",
+    "published_date": "2024-12-04",
+    "theme": "social"
+  },
+  "10.1016/j.ejor.2026.07.006": {
+    "topic": "Maritime transport; chokepoints; risk; rerouting",
+    "figure": "assets/media/ejor-2026.webp",
+    "figure_alt": "Illustration from Wen and colleagues, European Journal of Operational Research (2026), CC BY-NC 4.0.",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S037722172600603X/pdfft?isDTMRedir=true&download=true",
+    "scholar_id": "edoHbXEAAAAJ:35N4QoGY0k4C",
+    "published_date": "2026-07-01",
+    "theme": "transport"
+  },
+  "10.1057/s41599-025-05389-4": {
+    "topic": "Misinformation; fake news; deepfakes",
+    "figure": "assets/media/deepfakes-2025.webp",
+    "figure_alt": "Overview figure from Abraham and colleagues, Humanities and Social Sciences Communications (2025), CC BY 4.0.",
+    "pdf": "https://www.nature.com/articles/s41599-025-05389-4.pdf",
+    "scholar_id": "edoHbXEAAAAJ:J_g5lzvAfSwC",
+    "published_date": "2025-07-08",
+    "theme": "social"
+  },
+  "10.1016/j.inffus.2021.02.001": {
+    "topic": "Fractal dimension; network science",
+    "figure": "assets/media/inffus-2021.webp",
+    "type": "Review article",
+    "scholar_id": "edoHbXEAAAAJ:MXK_kJrjxJIC",
+    "published_date": "2021-09-01",
+    "theme": "networks"
+  },
+  "10.1103/physrevresearch.6.023104": {
+    "topic": "Parrondo’s paradox; parasite-host dynamics",
+    "figure": "assets/media/prresearch-2024.webp",
+    "pdf": "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.6.023104",
+    "scholar_id": "edoHbXEAAAAJ:TFP_iSt0sucC",
+    "published_date": "2024-04-30",
+    "theme": "complex"
+  },
+  "10.1002/advs.202002324": {
+    "topic": "Epidemics; Parrondo’s paradox",
+    "figure": "assets/media/advs-2020.webp",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202002324",
+    "scholar_id": "edoHbXEAAAAJ:5nxA0vEk-isC",
+    "published_date": "2020-11-05",
+    "theme": "complex"
+  },
+  "10.1186/s12915-021-01097-y": {
+    "topic": "Predator-prey dynamics; Parrondo’s paradox",
+    "figure": "assets/media/bmc-2021.webp",
+    "pdf": "https://link.springer.com/content/pdf/10.1186/s12915-021-01097-y.pdf",
+    "scholar_id": "edoHbXEAAAAJ:ZeXyd9-uunAC",
+    "published_date": "2021-08-23",
+    "theme": "complex"
+  },
+  "10.1109/tnse.2025.3592367": {
+    "topic": "Trustworthy AI; large language models; network optimization",
+    "figure": "assets/media/tnse-2025.webp",
+    "scholar_id": "edoHbXEAAAAJ:lSLTfruPkqcC",
+    "published_date": "2026-01-01",
+    "theme": "methods"
+  },
+  "10.1016/j.chaos.2026.119106": {
+    "figure": "assets/media/csf-llr-2026.webp",
+    "scholar_id": "edoHbXEAAAAJ:70eg2SAEIzsC",
+    "published_date": "2026-12-01",
+    "theme": "methods"
+  },
+  "10.48550/arxiv.2611.13919": {
+    "figure": "assets/media/eagle-2026.webp",
+    "scholar_id": "edoHbXEAAAAJ:2P1L_qKh6hAC",
+    "published_date": "2026-11-10",
+    "type": "Work in progress / under review",
+    "theme": "social",
+    "venue_short": "arXiv"
+  },
+  "10.1016/j.plrev.2026.04.007": {
+    "scholar_id": "edoHbXEAAAAJ:vV6vV6tmYwMC",
+    "published_date": "2026-07-01",
+    "theme": "complex"
+  },
+  "10.1016/j.chaos.2025.116399": {
+    "figure": "assets/media/csf-ye-2025.webp",
+    "scholar_id": "edoHbXEAAAAJ:RGFaLdJalmkC",
+    "published_date": "2025-07-01",
+    "theme": "complex"
+  },
+  "10.1103/physrevresearch.7.l022012": {
+    "figure": "assets/media/prr-cheong-2025.webp",
+    "pdf": "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.7.L022012",
+    "scholar_id": "edoHbXEAAAAJ:ns9cj8rnVeAC",
+    "published_date": "2025-04-10",
+    "theme": "complex"
+  },
+  "10.1103/physreve.111.l012201": {
+    "figure": "assets/media/pre-cheong-2025.webp",
+    "scholar_id": "edoHbXEAAAAJ:BqipwSGYUEgC",
+    "published_date": "2025-01-03",
+    "theme": "transport"
+  },
+  "10.1016/j.ipm.2024.103927": {
+    "figure": "assets/media/ipm-2025.webp",
+    "scholar_id": "edoHbXEAAAAJ:k_IJM867U9cC",
+    "published_date": "2025-01-01",
+    "theme": "social"
+  },
+  "10.1109/icac61394.2024.10718817": {
+    "figure": "assets/media/icac-2024.webp",
+    "scholar_id": "edoHbXEAAAAJ:M3NEmzRMIkIC",
+    "published_date": "2024-08-28",
+    "theme": "methods",
+    "venue_short": "ICAC"
+  },
+  "10.1016/j.chaos.2024.114658": {
+    "figure": "assets/media/csf-ankit-2024.webp",
+    "scholar_id": "edoHbXEAAAAJ:iH-uZ7U-co4C",
+    "published_date": "2024-04-01",
+    "theme": "transport"
+  },
+  "10.1109/tetci.2024.3372410": {
+    "figure": "assets/media/tetci-2024.webp",
+    "scholar_id": "edoHbXEAAAAJ:bEWYMUwI8FkC",
+    "published_date": "2024-08-01",
+    "theme": "social",
+    "equal_authors": [
+      "Zeyi Liu",
+      "Tao Wen"
+    ]
+  },
+  "10.1103/physrevresearch.6.l012037": {
+    "figure": "assets/media/prr-ankit-2024.webp",
+    "pdf": "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.6.L012037",
+    "scholar_id": "edoHbXEAAAAJ:4JMBOYKVnBMC",
+    "published_date": "2024-02-22",
+    "theme": "transport"
+  },
+  "10.1016/j.omega.2023.102945": {
+    "figure": "assets/media/omega-2024.webp",
+    "scholar_id": "edoHbXEAAAAJ:_Qo2XoVZTnwC",
+    "published_date": "2024-01-01",
+    "theme": "social"
+  },
+  "10.1016/j.jocs.2023.102140": {
+    "figure": "assets/media/jocs-2023.webp",
+    "scholar_id": "edoHbXEAAAAJ:RHpTSmoSYBkC",
+    "published_date": "2023-11-01",
+    "theme": "methods"
+  },
+  "10.1142/s0218348x23400017": {
+    "figure": "assets/media/fra-2023.webp",
+    "pdf": "https://www.worldscientific.com/doi/epdf/10.1142/S0218348X23400017",
+    "scholar_id": "edoHbXEAAAAJ:-f6ydRqryjwC",
+    "published_date": "2023-09-16",
+    "theme": "complex"
+  },
+  "10.1007/s11071-022-08002-4": {
+    "figure": "assets/media/nd-rev-2022.webp",
+    "scholar_id": "edoHbXEAAAAJ:TQgYirikUcIC",
+    "published_date": "2022-10-31",
+    "theme": "methods",
+    "type": "Review article"
+  },
+  "10.1016/j.ins.2022.08.120": {
+    "figure": "assets/media/ins-gao-2022.webp",
+    "scholar_id": "edoHbXEAAAAJ:mB3voiENLucC",
+    "published_date": "2022-10-01",
+    "theme": "methods"
+  },
+  "10.1016/j.ress.2022.108578": {
+    "figure": "assets/media/ress-2022.webp",
+    "scholar_id": "edoHbXEAAAAJ:dhFuZR0502QC",
+    "published_date": "2022-10-01",
+    "theme": "transport"
+  },
+  "10.1016/j.ins.2022.07.084": {
+    "figure": "assets/media/ins-zhao-2022.webp",
+    "scholar_id": "edoHbXEAAAAJ:hFOr9nPyWt4C",
+    "published_date": "2022-09-01",
+    "theme": "networks"
+  },
+  "10.1007/s11071-021-07083-x": {
+    "figure": "assets/media/nd-prey-2022.webp",
+    "scholar_id": "edoHbXEAAAAJ:R3hNpaxXUhUC",
+    "published_date": "2022-01-04",
+    "theme": "complex",
+    "type": "Review article"
+  },
+  "10.1109/tcyb.2021.3123081": {
+    "figure": "assets/media/tcyb-2021.webp",
+    "scholar_id": "edoHbXEAAAAJ:L8Ckcad2t8MC",
+    "published_date": "2023-04-01",
+    "theme": "networks"
+  },
+  "10.1063/5.0033680": {
+    "figure": "assets/media/chaos-2021.webp",
+    "scholar_id": "edoHbXEAAAAJ:kNdYIx-mwKoC",
+    "published_date": "2021-03-31",
+    "theme": "social"
+  },
+  "10.1142/s0218348x21502637": {
+    "figure": "assets/media/fra-2021.webp",
+    "scholar_id": "edoHbXEAAAAJ:_kc_bZDykSQC",
+    "published_date": "2021-11-29",
+    "theme": "networks"
+  },
+  "10.3390/ijerph18158052": {
+    "figure": "assets/media/ijerph-2021.webp",
+    "scholar_id": "edoHbXEAAAAJ:KlAtU1dfN6UC",
+    "published_date": "2021-07-29",
+    "theme": "methods"
+  },
+  "10.1016/j.knosys.2020.105717": {
+    "figure": "assets/media/knosys-2020.webp",
+    "scholar_id": "edoHbXEAAAAJ:hqOjcs7Dif8C",
+    "published_date": "2020-05-01",
+    "theme": "networks"
+  },
+  "10.1016/j.ress.2019.106782": {
+    "figure": "assets/media/ress-2020.webp",
+    "scholar_id": "edoHbXEAAAAJ:UebtZRa9Y70C",
+    "published_date": "2020-04-01",
+    "theme": "networks"
+  },
+  "10.1016/j.ins.2019.10.003": {
+    "figure": "assets/media/ins-2020.webp",
+    "scholar_id": "edoHbXEAAAAJ:_FxGoFyzp5QC",
+    "published_date": "2020-02-01",
+    "theme": "networks"
+  },
+  "10.1016/j.cnsns.2019.104867": {
+    "figure": "assets/media/cnsns-2019.webp",
+    "scholar_id": "edoHbXEAAAAJ:zYLM7Y9cAGgC",
+    "published_date": "2019-11-01",
+    "theme": "networks"
+  },
+  "10.1016/j.physa.2019.121054": {
+    "figure": "assets/media/physa-2019.webp",
+    "scholar_id": "edoHbXEAAAAJ:IjCSPb-OGe4C",
+    "published_date": "2019-07-01",
+    "theme": "networks"
+  },
+  "10.1016/j.physa.2018.10.045": {
+    "figure": "assets/media/physa-duan-2019.webp",
+    "scholar_id": "edoHbXEAAAAJ:d1gkVwhDpl0C",
+    "published_date": "2019-02-01",
+    "theme": "networks"
+  },
+  "10.1016/j.chaos.2019.01.011": {
+    "figure": "assets/media/csf-2019.webp",
+    "scholar_id": "edoHbXEAAAAJ:UeHWp8X0CEIC",
+    "published_date": "2019-02-01",
+    "theme": "networks"
+  },
+  "10.1007/s40815-018-0457-8": {
+    "figure": "assets/media/ijfs-2018.webp",
+    "scholar_id": "edoHbXEAAAAJ:u-x6o8ySG0sC",
+    "published_date": "2018-03-06",
+    "theme": "networks"
+  },
+  "10.1016/j.physa.2018.02.067": {
+    "figure": "assets/media/physa-2018.webp",
+    "scholar_id": "edoHbXEAAAAJ:u5HHmVD_uO8C",
+    "published_date": "2018-07-01",
+    "theme": "networks"
+  }
+}

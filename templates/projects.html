@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block description %}Funded research projects and partners in Tao Wen’s research on trustworthy AI, misinformation and digital governance.{% endblock %}
+{% block content %}
+  <h1>Projects</h1>
+  <div class="funded-projects">
+    {% for project in graph.projects %}
+      <article class="project-record" id="{{ project.id }}">
+        <div class="project-funding">
+          <span>{{ project.programme }}</span>
+          <span class="record-date">{{ project.year }}</span>
+        </div>
+        <h2>{{ project.name }}</h2>
+        <p class="project-role">{{ project.role }} <span aria-hidden="true">·</span> <span class="project-amount">{{ project.funding }}</span></p>
+        <p>{{ project.description }}</p>
+        <div class="project-people" aria-label="Project collaborators">
+          {% for name in project.participants %}<a href="{{ base }}collab/?person={{ name|urlencode }}#person-details">{{ name }}</a>{% endfor %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block description %}Contact Tao Wen at Alliance Manchester Business School, The University of Manchester.{% endblock %}
+{% block page_head %}
+  <link rel="stylesheet" href="{{ base }}assets/vendor/leaflet/leaflet.css">
+  <script src="{{ base }}assets/vendor/leaflet/leaflet.js" defer></script>
+  <script src="{{ base }}assets/contact-map.js" defer></script>
+{% endblock %}
+{% block content %}
+  <h1>Contact</h1>
+  <div class="contact-details">
+    <section aria-labelledby="email-heading">
+      <h2 id="email-heading">Email</h2>
+      <div class="contact-emails">
+        <a href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+        <a href="mailto:{{ profile.secondary_email }}">{{ profile.secondary_email }}</a>
+      </div>
+    </section>
+    <section aria-labelledby="address-heading">
+      <h2 id="address-heading">Address</h2>
+      <address>{% for line in profile.address.lines %}{{ line }}{% if not loop.last %}<br>{% endif %}{% endfor %}</address>
+    </section>
+  </div>
+  <div class="contact-map" id="contact-map" role="region" aria-label="Map showing Alliance Manchester Business School on Booth Street West" data-latitude="{{ profile.address.latitude }}" data-longitude="{{ profile.address.longitude }}" data-place="{{ profile.department }}"></div>
+  <div class="contact-map-links">
+    <a href="{{ profile.address.map_url }}" target="_blank" rel="noopener">Open in Google Maps <span aria-hidden="true">→</span></a>
+    <a href="{{ profile.address.travel_url }}" target="_blank" rel="noopener">School travel information</a>
+  </div>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block description %}Invited talks and conference presentations by Tao Wen.{% endblock %}
+{% block content %}
+  <h1>Talks</h1>
+  <div class="records">
+    {% for item in career.talks %}
+      <article class="record">
+        <time class="record-date" datetime="{{ item.date }}">{{ item.date|date_label }}</time>
+        <div>
+          <h2>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</h2>
+          <p>{{ item.kind }} <span aria-hidden="true">·</span> {{ item.location }}</p>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% endblock %}

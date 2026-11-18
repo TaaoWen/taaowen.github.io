@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block description %}Fellowships, scholarships and awards received by Tao Wen.{% endblock %}
+{% block content %}
+  <h1>Awards</h1>
+  <div class="records">
+    {% for item in career.awards %}
+      <article class="record">
+        <span class="record-date">{{ item.year }}</span>
+        <div><h2>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</h2>
+        {% if item.organisation %}<p>{{ item.organisation }}</p>{% endif %}</div>
+      </article>
+    {% endfor %}
+  </div>
+{% endblock %}

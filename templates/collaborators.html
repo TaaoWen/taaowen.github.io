@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block description %}Explore Tao Wen’s co-authors and research project collaborators by collaboration group.{% endblock %}
+{% block page_head %}
+  <script src="{{ base }}assets/vendor/d3.min.js" defer></script>
+  <script src="{{ base }}assets/network.js" defer></script>
+{% endblock %}
+{% block content %}
+  <h1>Collaboration Network</h1>
+  <div class="graph-controls">
+    <label class="search-field"><span>Find a collaborator</span><input id="collaborator-query" type="search" placeholder="Name or affiliation" autocomplete="off"></label>
+    <label><span>Relationship</span><select id="relationship-type">
+      <option value="all">All relationships</option><option value="coauthor">Co-authorship</option><option value="project">Project collaboration</option>
+    </select></label>
+  </div>
+  <div class="graph-card">
+    <!--
+    <div class="graph-legend group-legend" aria-label="Node colours by collaboration group">
+      {% for group in graph.groups %}<span><i style="--node-colour:{{ group.colour }}"></i>{{ group.label }}</span>{% endfor %}
+    </div>
+    -->
+    <div class="graph-legend relationship-legend" aria-label="Line styles">
+      <span><i></i> Co-authorship</span><span><i class="project-line"></i> Project collaboration</span>
+    </div>
+    <div class="graph-viewport" id="graph-viewport">
+      <canvas id="collaboration-graph" aria-label="Interactive collaboration network. Drag and zoom to explore. Select any collaborator using the list beneath the network." role="img"></canvas>
+      <div class="zoom-controls" aria-label="Graph zoom">
+        <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+        <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+        <button type="button" id="zoom-reset">Reset</button>
+      </div>
+    </div>
+  </div>
+  <div class="collaboration-details">
+    <section aria-labelledby="collaborators-list-label" class="collaborator-index">
+      <h2 id="collaborators-list-label">Collaborators <span id="collaborator-count" aria-live="polite">({{ graph.nodes|length - 1 }})</span></h2>
+      <ul id="collaborator-list">
+        {% for node in graph.nodes if node.id != graph.root %}
+        <li><button type="button" data-person="{{ node.id }}" aria-pressed="false"><span>{{ node.name }}</span>{% if node.affiliations %} <small class="collaborator-affiliation" title="{{ node.affiliation_source }}">· {{ node.affiliations[0] }}</small>{% endif %}</button></li>
+        {% endfor %}
+      </ul>
+      <p id="no-collaborators" hidden>No collaborators match this search.</p>
+    </section>
+    <section id="person-details" class="person-details" aria-live="polite" aria-labelledby="person-name">
+      <h2 id="person-name">Tao Wen</h2>
+      <p>Select a collaborator to see shared publications and projects.</p>
+    </section>
+  </div>
+  <noscript><p>The interactive graph requires JavaScript. The list of collaborators is available above.</p></noscript>
+  <script id="network-data" type="application/json">{{ graph|tojson }}</script>
+{% endblock %}

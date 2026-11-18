@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block description %}Editorial appointments, reviewing and conference service by Tao Wen.{% endblock %}
+{% block content %}
+  <h1>Services</h1>
+  <section class="content-section" aria-labelledby="editorial">
+    <h2 id="editorial">Editorial Roles</h2>
+    <ul class="compact-list">
+      {% for item in career.editorial %}
+        <li><div><strong>{{ item.role }}</strong><span class="section-dot"> · </span>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}{% if item.detail %}<p>{{ item.detail }}</p>{% endif %}</div><span class="record-date">{{ item.date }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+  <section class="content-section" aria-labelledby="chairing">
+    <h2 id="chairing">Conference Chairing</h2>
+    <ul class="compact-list">
+      {% for item in career.chairing %}
+        <li><div><strong>{{ item.role }}</strong><span class="section-dot"> · </span>{{ item.name }}</div><span class="record-date">{{ item.year }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% for title, id, entries in [('Journal Reviewing', 'reviewing', career.journals), ('Conference Program Committees', 'committees', career.conferences)] %}
+    <section class="content-section" aria-labelledby="{{ id }}">
+      <h2 id="{{ id }}">{{ title }}</h2>
+      <ul class="compact-list reviews">
+        {% for item in entries %}<li><span>{{ item.name }}</span><span class="record-date">{{ item.dates }}</span></li>{% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+{% endblock %}

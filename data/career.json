@@ -1,0 +1,425 @@
+{
+  "news": [
+    {
+      "date": "2026-09",
+      "text": "I joined Ofcom as an Academic Fellow."
+    },
+    {
+      "date": "2026-08",
+      "text": "I received a Global Scholars Fund for a Manchester–Melbourne collaboration on trustworthy AI, misinformation-driven opinion dynamics and digital governance."
+    },
+    {
+      "date": "2026-07",
+      "text": "Our study of disruption risks at maritime chokepoints was published in the European Journal of Operational Research.",
+      "link_text": "Paper",
+      "url": "https://doi.org/10.1016/j.ejor.2026.07.006"
+    },
+    {
+      "date": "2026-07",
+      "text": "I was one of four finalists for the EURO Doctoral Dissertation Award and presented my thesis work at IFORS 2026 in Vienna.",
+      "link_text": "EURO announcement",
+      "url": "https://www.euro-online.org/web/pages/1776/edda-finalists-2026"
+    },
+    {
+      "date": "2026-04",
+      "text": "We are guest editing a special issue in the Information Processing & Management 'Explainable AI and Network Science for Social Systems and Collective Intelligence'.",
+      "link_text": "Call for papers",
+      "url": "https://www.sciencedirect.com/special-issue/332020/explainable-ai-and-network-science-for-social-systems-and-collective-intelligence"
+    }
+  ],
+  "experience": [
+    {
+      "institution": "Ofcom (Office of Communications)",
+      "logo": "ofcom",
+      "url": "https://www.ofcom.org.uk/",
+      "role": "Academic Fellow",
+      "date": "2026–present"
+    },
+    {
+      "institution": "The University of Manchester",
+      "logo": "manchester",
+      "url": "https://www.alliancembs.manchester.ac.uk/",
+      "role": "Research Fellow in AI Trust and Security",
+      "date": "2025–present"
+    },
+    {
+      "institution": "Indiana University Bloomington",
+      "logo": "indiana",
+      "url": "https://bloomington.iu.edu/",
+      "role": "Visiting PhD student",
+      "date": "2024"
+    },
+    {
+      "institution": "The Alan Turing Institute",
+      "logo": "turing",
+      "url": "https://www.turing.ac.uk/people/former-enrichment-students/tao-wen",
+      "role": "Turing PhD Enrichment",
+      "date": "2024"
+    },
+    {
+      "institution": "University of Oxford",
+      "logo": "oxford",
+      "url": "https://www.ox.ac.uk/",
+      "role": "Visiting PhD student",
+      "date": "2023"
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Manchester",
+      "logo": "manchester",
+      "url": "https://www.manchester.ac.uk/",
+      "role": "PhD with an integrated MSc in Data Analytics and Society",
+      "date": "2021–2025"
+    },
+    {
+      "institution": "Singapore University of Technology and Design",
+      "logo": "sutd",
+      "url": "https://www.sutd.edu.sg/",
+      "role": "MEng (Research) in Mathematics",
+      "date": "2020–2021"
+    },
+    {
+      "institution": "Northwestern Polytechnical University",
+      "logo": "nwpu",
+      "url": "https://en.nwpu.edu.cn/",
+      "role": "BSc in System Engineering",
+      "date": "2015–2019"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "name": "EURO Doctoral Dissertation Award finalist",
+      "organisation": "Association of European Operational Research Societies",
+      "url": "https://www.euro-online.org/web/pages/1776/edda-finalists-2026",
+      "selected": true
+    },
+    {
+      "year": 2025,
+      "name": "Scholarship for Events on Complex Systems (SECS)",
+      "organisation": "Complex Systems Society"
+    },
+    {
+      "year": 2024,
+      "name": "Chinese Government Award for Outstanding Self-financed Students Abroad",
+      "organisation": "Ministry of Education of the People’s Republic of China",
+      "selected": true
+    },
+    {
+      "year": 2024,
+      "name": "Mathematics Travel Award",
+      "organisation": "Mathematics"
+    },
+    {
+      "year": 2024,
+      "name": "The Turing Scheme",
+      "organisation": "Placement support by the UK Government",
+      "selected": true
+    },
+    {
+      "year": 2024,
+      "name": "Conference Support Fund",
+      "organisation": "Department of Social Statistics, The University of Manchester"
+    },
+    {
+      "year": 2023,
+      "name": "Excellent Paper Award",
+      "organisation": "China and UK Forum of International Young Scholars"
+    },
+    {
+      "year": 2023,
+      "name": "Enrichment Scheme Fellowship",
+      "organisation": "The Alan Turing Institute",
+      "url": "https://www.turing.ac.uk/work-turing/studentships/enrichment",
+      "selected": true
+    },
+    {
+      "year": 2022,
+      "name": "Turing Exchange Fellowship",
+      "organisation": "The Alan Turing Institute and The University of Manchester",
+      "selected": true
+    },
+    {
+      "year": 2022,
+      "name": "Conference Support Fund",
+      "organisation": "Decision and Cognitive Sciences Research Centre"
+    },
+    {
+      "year": 2022,
+      "name": "Excellent Paper Award",
+      "organisation": "International Interdisciplinary Forum on Smart Shipping and Green Future"
+    },
+    {
+      "year": 2021,
+      "name": "UKRI ESRC Doctoral Training Scholarship",
+      "organisation": "Data Analytics and Society"
+    },
+    {
+      "year": 2020,
+      "name": "MEng (Research) Fellowship",
+      "organisation": "Singapore University of Technology and Design"
+    },
+    {
+      "year": 2019,
+      "name": "Special First Prize, Challenge Cup",
+      "organisation": "National Undergraduate Extracurricular Academic Science and Technology Contest"
+    },
+    {
+      "year": 2018,
+      "name": "China National Scholarship and Outstanding Student Pacemaker",
+      "organisation": "Northwestern Polytechnical University"
+    }
+  ],
+  "talks": [
+    {
+      "date": "2026-07",
+      "kind": "Oral presentation",
+      "name": "24th Conference of the International Federation of Operational Research Societies",
+      "location": "Vienna, Austria",
+      "url": "https://www.euro-online.org/web/pages/1776/edda-finalists-2026"
+    },
+    {
+      "date": "2026-05",
+      "kind": "Invited talk",
+      "name": "Digital Trust and Security Seminar",
+      "location": "Manchester, UK",
+      "url": "https://events.manchester.ac.uk/event/event:j1tb-mmj6rttw-x99s25"
+    },
+    {
+      "date": "2026-01",
+      "kind": "Invited talk",
+      "name": "Ofcom Seminar",
+      "location": "Manchester, UK"
+    },
+    {
+      "date": "2025-06",
+      "kind": "Oral presentation",
+      "name": "34th European Conference on Operational Research",
+      "location": "Leeds, UK"
+    },
+    {
+      "date": "2025-06",
+      "kind": "Poster",
+      "name": "International School and Conference on Network Science (NetSci) 2025",
+      "location": "Maastricht, Netherlands"
+    },
+    {
+      "date": "2024-12",
+      "kind": "Invited talk",
+      "name": "Decision and Cognitive Science Research Centre PhD Workshop",
+      "location": "Manchester, UK"
+    },
+    {
+      "date": "2024-09",
+      "kind": "Oral presentation",
+      "name": "Conference on Complex Systems 2024",
+      "location": "Exeter, UK"
+    },
+    {
+      "date": "2024-08",
+      "kind": "Oral presentation",
+      "name": "29th International Conference on Automation and Computing",
+      "location": "Sunderland, UK"
+    },
+    {
+      "date": "2024-06",
+      "kind": "Oral presentation",
+      "name": "International School and Conference on Network Science (NetSci) 2024",
+      "location": "Québec City, Canada"
+    },
+    {
+      "date": "2024-04",
+      "kind": "Oral presentation",
+      "name": "Networks and Time II, Northeastern University London",
+      "location": "London, UK"
+    },
+    {
+      "date": "2024-04",
+      "kind": "Oral presentation",
+      "name": "Data Natives Workshop, City, University of London",
+      "location": "London, UK"
+    },
+    {
+      "date": "2024-04",
+      "kind": "Oral presentation",
+      "name": "PhD Student Presentations and Networking, The Alan Turing Institute",
+      "location": "London, UK"
+    },
+    {
+      "date": "2023-06",
+      "kind": "Oral presentation",
+      "name": "Advances in Data Science and AI Conference",
+      "location": "Manchester, UK"
+    },
+    {
+      "date": "2023-05",
+      "kind": "Invited talk",
+      "name": "Brown Bag Seminar on Fintech & Digital Transformation",
+      "location": "Manchester, UK"
+    },
+    {
+      "date": "2022-10",
+      "kind": "Oral presentation",
+      "name": "International Postgraduate Interdisciplinary Forum on Smart Shipping and Green Future, Shanghai Jiao Tong University",
+      "location": "Online"
+    },
+    {
+      "date": "2022-06",
+      "kind": "Oral presentation",
+      "name": "26th International Conference on Multiple Criteria Decision Making",
+      "location": "Portsmouth, UK"
+    },
+    {
+      "date": "2021-05",
+      "kind": "Invited talk",
+      "name": "Oberseminar Dynamics Seminar, Technical University of Munich",
+      "location": "Online"
+    },
+    {
+      "date": "2019-09",
+      "kind": "Oral presentation",
+      "name": "9th China Information Fusion Conference",
+      "location": "Taiyuan, China"
+    },
+    {
+      "date": "2019-06",
+      "kind": "Invited talk",
+      "name": "Ao Xiang Students Lecture",
+      "location": "Xi’an, China"
+    }
+  ],
+  "editorial": [
+    {
+      "year": 2026,
+      "date": "2026–present",
+      "role": "Area Editor",
+      "name": "International Journal of Computational Intelligence Systems",
+      "url": "https://link.springer.com/journal/44196",
+      "selected": true
+    },
+    {
+      "year": 2026,
+      "date": "2026–present",
+      "role": "Editorial Board",
+      "name": "Information Processing & Management",
+      "url": "https://www.sciencedirect.com/journal/information-processing-and-management",
+      "selected": true
+    },
+    {
+      "year": 2026,
+      "date": "2026–present",
+      "role": "Early Career Editorial Board",
+      "name": "X Intelligence",
+      "url": "https://www.polymas.org/journals/POLYMAS-X-Intelligence/overview",
+      "selected": true
+    },
+    {
+      "year": 2026,
+      "date": "2026",
+      "role": "Lead Guest Editor",
+      "name": "Information Processing & Management",
+      "detail": "Explainable AI and Network Science for Social Systems and Collective Intelligence",
+      "url": "https://www.sciencedirect.com/journal/information-processing-and-management"
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "role": "Guest Editor Assistant",
+      "name": "Mathematics",
+      "detail": "Data-driven Decision Making: Models, Methods and Applications",
+      "url": "https://www.mdpi.com/journal/mathematics"
+    }
+  ],
+  "chairing": [
+    {
+      "year": 2027,
+      "role": "Program Chair",
+      "name": "Advances in AI"
+    },
+    {
+      "year": 2024,
+      "role": "Session Chair",
+      "name": "International Conference on Automation and Computing"
+    }
+  ],
+  "journal_review": {
+    "2026": [
+      "IEEE Transactions on Network Science and Engineering",
+      "Computer Science Review",
+      "Information Fusion",
+      "Knowledge-Based Systems",
+      "European Journal of Information Systems",
+      "Computers & Industrial Engineering",
+      "Engineering Applications of Artificial Intelligence",
+      "Expert Systems with Applications",
+      "Communications in Nonlinear Science and Numerical Simulation",
+      "Journal of Complex Networks",
+      "Information Processing & Management",
+      "Information Technology & People",
+      "Computers in Human Behavior: Artificial Humans",
+      "Decision Analytics Journal",
+      "Chinese Journal of Physics",
+      "International Journal of Modern Physics C",
+      "Array"
+    ],
+    "2025": [
+      "ACM Transactions on Knowledge Discovery from Data",
+      "IEEE Transactions on Signal and Information Processing over Networks",
+      "IEEE Transactions on Network Science and Engineering",
+      "Artificial Intelligence Review",
+      "Knowledge-Based Systems",
+      "Information Technology & People",
+      "Information Processing & Management",
+      "International Journal of Modern Physics C"
+    ],
+    "2024": [
+      "Humanities and Social Sciences Communications",
+      "The European Physical Journal B",
+      "Journal of Transport Geography"
+    ],
+    "2023": [
+      "IEEE Transactions on Neural Networks and Learning Systems",
+      "IEEE Transactions on Network Science and Engineering",
+      "International Journal of Modern Physics C"
+    ],
+    "2022": [
+      "Reliability Engineering & System Safety",
+      "Journal of Computational Science",
+      "Physica A"
+    ],
+    "2021": [
+      "IEEE Transactions on Signal and Information Processing over Networks",
+      "Communications Physics",
+      "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+      "Physica A",
+      "Scientific Reports"
+    ]
+  },
+  "committees": {
+    "2027": [
+      "IJCNN",
+      "AISTATS"
+    ],
+    "2026": [
+      "IJCNN",
+      "NetSci",
+      "IFAC World Congress",
+      "AOM Annual Meeting"
+    ],
+    "2025": [
+      "NeurIPS",
+      "ICML",
+      "ICLR",
+      "AISTATS",
+      "IJCNN",
+      "NetSci",
+      "AOM Annual Meeting"
+    ],
+    "2024": [
+      "NeurIPS",
+      "NetSci",
+      "DASA"
+    ]
+  }
+}

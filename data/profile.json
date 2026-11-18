@@ -1,0 +1,76 @@
+{
+  "name": "Tao Wen",
+  "bibtex_names": [
+    "Tao Wen",
+    "Wen, Tao",
+    "T. Wen"
+  ],
+  "position": "Research Fellow in AI Trust and Security",
+  "department": "Alliance Manchester Business School",
+  "university": "The University of Manchester",
+  "location": "Manchester, UK",
+  "photo": "assets/media/portrait.webp",
+  "cv": "assets/TaoWen_CV.pdf",
+  "email": "tao.wen@manchester.ac.uk",
+  "secondary_email": "taaowen@gmail.com",
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=edoHbXEAAAAJ",
+      "icon": "assets/icons/scholar.webp"
+    },
+    {
+      "label": "Manchester profile",
+      "url": "https://research.manchester.ac.uk/en/persons/tao-wen/",
+      "icon": "assets/media/manchester-logo.webp"
+    },
+    {
+      "label": "Alan Turing Institute profile",
+      "url": "https://www.turing.ac.uk/people/former-enrichment-students/tao-wen",
+      "icon": "assets/media/turing-logo.webp"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-8490-1628",
+      "icon": "assets/icons/orcid.webp"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tao-wen-b799a01b9/",
+      "icon": "assets/icons/linkedin.webp"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/TaaoWen",
+      "icon": "assets/icons/github.webp"
+    }
+  ],
+  "bio": [
+    "I am a Research Fellow in AI Trust and Security at Alliance Manchester Business School, The University of Manchester, where I work with <a href=\"https://research.manchester.ac.uk/en/persons/richard.allmendinger/\" target=\"_blank\" rel=\"noopener\">Professor Richard Allmendinger</a>. I am also an Academic Fellow at <a href=\"https://www.ofcom.org.uk/\" target=\"_blank\" rel=\"noopener\">Ofcom (Office of Communications)</a>.",
+    "My research focuses on understanding how information, beliefs, and behaviours co-evolve within complex interconnected systems, and how these dynamics affect collective outcomes and decision-making. I combine network science, computational modelling, agent-based approaches, and decision analytics to study misinformation diffusion, opinion dynamics, game theory, and trustworthy AI, with particular interests in the co-evolution of information, social structure and individual behaviour. I also investigate Parrondo’s paradox, strategy switching, and emergent collective behaviour in complex systems. Beyond social systems, I extend these computational approaches to transport and maritime networks, exploring their resilience and coordination and supporting transitions towards more sustainable, low-carbon operations.",
+    "I completed a PhD with an integrated MSc in Data Analytics and Society at Manchester, supported by the <a href=\"https://datacdt.org/\" target=\"_blank\" rel=\"noopener\">UKRI ESRC-funded Centre for Doctoral Training in Data Analytics and Society</a>. My thesis on <a href=\"https://research.manchester.ac.uk/en/studentTheses/data-driven-modeling-and-analytics-for-information-propagation-an/\" target=\"_blank\" rel=\"noopener\">Data-Driven Modeling and Analytics for Information Propagation and Decision-making in Social Networks</a> was a finalist for the <a href=\"https://www.euro-online.org/web/pages/1776/edda-finalists-2026\" target=\"_blank\" rel=\"noopener\">2026 EURO Doctoral Dissertation Award</a>. I previously received an MEng (Research) in Mathematics from the Singapore University of Technology and Design and a BSc in System Engineering from Northwestern Polytechnical University."
+  ],
+  "chinese_name": "文涛",
+  "department_short": "Alliance MBS",
+  "department_url": "https://www.alliancembs.manchester.ac.uk/",
+  "university_url": "https://www.manchester.ac.uk/",
+  "scholar_id": "edoHbXEAAAAJ",
+  "scholar_url": "https://scholar.google.com/citations?user=edoHbXEAAAAJ",
+  "supervised_authors": [
+    "Tony Mathew Abraham"
+  ],
+  "address": {
+    "lines": [
+      "Room 3.092",
+      "Alliance Manchester Business School",
+      "The University of Manchester",
+      "Booth Street West",
+      "Manchester M15 6PB",
+      "United Kingdom"
+    ],
+    "map_url": "https://www.google.com/maps/search/?api=1&query=53.467678%2C-2.235641",
+    "travel_url": "https://www.alliancembs.manchester.ac.uk/about/contact/",
+    "latitude": 53.467678,
+    "longitude": -2.235641
+  }
+}

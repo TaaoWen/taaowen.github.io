@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% block description %}Tao Wen, Research Fellow in AI Trust and Security at the University of Manchester. Research on network science, information diffusion and decision-making.{% endblock %}">
+  <title>{% if route %}{{ label }} | {% endif %}{{ profile.name }}{% if not route %} | Academic Homepage{% endif %}</title>
+  <link rel="icon" href="{{ base }}assets/media/portrait.webp">
+  <link rel="preload" href="{{ base }}assets/fonts/inter.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ base }}assets/site.css">
+  <script src="{{ base }}assets/site.js" defer></script>
+  {% block page_head %}{% endblock %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <div class="frame topbar-inner">
+      <a class="wordmark" href="{{ base }}">{{ profile.name }}</a>
+      <nav aria-label="Main navigation" class="primary-nav">
+        {% for name, path, _ in pages %}
+          <a href="{{ base }}{{ path }}"{% if route == path %} aria-current="page"{% endif %}>{{ name }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+  <div class="frame page-shell">
+    <aside class="profile" aria-label="Researcher profile">
+      <div class="profile-identity">
+        <img class="portrait" src="{{ base }}{{ profile.photo }}" alt="Portrait of {{ profile.name }}" width="144" height="144">
+        <div>
+          <a class="profile-name" href="{{ base }}">{{ profile.name }}<span lang="zh" class="chinese-name">（{{ profile.chinese_name }}）</span></a>
+          <p class="profile-position">{{ profile.position }}</p>
+          <div class="profile-affiliation">
+            <a href="{{ profile.department_url }}" target="_blank" rel="noopener" title="{{ profile.department }}"><span class="school-full">{{ profile.department }}</span><span class="school-short">{{ profile.department_short }}</span></a>
+            <a href="{{ profile.university_url }}" target="_blank" rel="noopener">{{ profile.university }}</a>
+          </div>
+          <p class="profile-location">{{ profile.location }}</p>
+        </div>
+      </div>
+      <ul class="profile-links">
+        <li><a href="mailto:{{ profile.email }}"><img class="profile-symbol" src="{{ base }}assets/icons/email.webp" alt="" width="15" height="15">Email</a></li>
+        {% for link in profile.links %}
+          <li><a href="{{ link.url }}" target="_blank" rel="noopener"><img class="profile-symbol" src="{{ base }}{{ link.icon }}" alt="" width="15" height="15">{{ link.label }}</a></li>
+        {% endfor %}
+      </ul>
+      <a class="cv-link" href="{{ base }}{{ profile.cv }}" download><span aria-hidden="true">↓</span> Download CV <small>PDF</small></a>
+    </aside>
+    <main id="main" class="main-content">
+      {% block content %}{% endblock %}
+    </main>
+  </div>
+  <footer class="site-footer">
+    <div class="frame footer-inner">
+      <span>© {{ profile.name }}</span>
+      <a href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+    </div>
+  </footer>
+  <dialog id="cite-dialog" class="cite-dialog" aria-labelledby="citation-heading">
+    <div class="dialog-inner">
+      <div class="dialog-top">
+        <h2 id="citation-heading">BibTeX citation</h2>
+        <form method="dialog"><button class="close-dialog" aria-label="Close citation" type="submit">×</button></form>
+      </div>
+      <label class="sr-only" for="citation-value">BibTeX citation text</label>
+      <textarea id="citation-value" readonly spellcheck="false"></textarea>
+      <div class="dialog-actions">
+        <button type="button" class="button-primary" id="copy-citation">Copy BibTeX</button>
+        <span id="copy-status" role="status"></span>
+      </div>
+    </div>
+  </dialog>
+</body>
+</html>

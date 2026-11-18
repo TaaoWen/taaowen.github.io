@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% from "paper.html" import paper %}
+{% block description %}Search Tao Wen’s publications by title, author, venue, type or year.{% endblock %}
+{% block content %}
+  <h1>Publications</h1>
+  <div class="author-legend" aria-label="Author notation">
+    <span><b>†</b> Co-first author (equal contribution)</span>
+    <span><b>*</b> Corresponding author</span>
+    <span><span class="student-author">Underlined name</span> Supervised student</span>
+  </div>
+  <div class="publication-controls" aria-label="Publication filters">
+    <label class="search-field"><span>Search</span><input id="paper-query" type="search" placeholder="Title, author or venue" autocomplete="off"></label>
+    <label><span>Type</span><select id="paper-type"><option value="">All types</option>{% for type in types %}<option>{{ type }}</option>{% endfor %}</select></label>
+    <label><span>Year</span><select id="paper-year"><option value="">All years</option>{% for year in years %}<option>{{ year }}</option>{% endfor %}</select></label>
+  </div>
+  <div class="results-bar">
+    <p id="paper-count" aria-live="polite">{{ publications|length }} publications</p>
+    <button id="clear-filters" type="button" class="text-button" hidden>Clear filters</button>
+  </div>
+  <div class="paper-list all-papers">
+    {% for item in publications %}{{ paper(item, base) }}{% endfor %}
+  </div>
+  <p class="empty-state" id="no-papers" hidden>No publications match these filters.</p>
+{% endblock %}

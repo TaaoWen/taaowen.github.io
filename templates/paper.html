@@ -1,0 +1,24 @@
+{% macro paper(item, base, selected=false) -%}
+<article class="paper-row{% if selected %} paper-selected{% endif %}"
+  {% if not selected %}id="{{ item.id }}"{% endif %}
+  data-paper data-year="{{ item.year or '' }}" data-type="{{ item.type }}" data-topic="{{ item.abstract_tag }}">
+  <div class="paper-text">
+    {% set heading = "h3" if selected else "h2" %}<{{ heading }} class="paper-title">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</{{ heading }}>
+    <p class="paper-authors">{% for author in item.authors %}<span{% if author.supervised %} class="student-author" title="Supervised student"{% endif %}>{% if author.own %}<strong>{{ author.name }}</strong>{% else %}<a class="author-collaborator" href="{{ base }}collab/?person={{ author.name|urlencode }}#person-details">{{ author.name }}</a>{% endif %}</span>{% if author.equal %}<sup title="Co-first author">†</sup>{% endif %}{% if author.corresponding %}<sup title="Corresponding author">*</sup>{% endif %}{% if not loop.last %}, {% endif %}{% endfor %}</p>
+    <p class="paper-venue">{{ item.venue or item.status }}{% if (item.venue or item.status) and item.year %}<span aria-hidden="true"> · </span>{% endif %}{{ item.year or '' }}</p>
+    <div class="paper-actions" aria-label="Publication links">
+      {% if item.pdf %}<a href="{{ item.pdf }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+      <button type="button" data-cite>Cite</button>
+      {% if item.code %}<a href="{{ item.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+      {% if item.doi %}<a href="{{ item.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      {% if item.press %}<a href="{{ item.press }}" target="_blank" rel="noopener">Press</a>{% endif %}
+      {% if item.cited > 100 and item.scholar_url %}<a class="paper-citations" href="{{ item.scholar_url }}" target="_blank" rel="noopener" title="Google Scholar citations · {{ item.scholar_date|date_label }}"><img src="{{ base }}assets/icons/scholar.webp" alt="Google Scholar" width="13" height="13"> {{ item.cited|count_format }} citations</a>{% endif %}
+    </div>
+    <template class="bibtex-data">{{ item.citation }}</template>
+  </div>
+  <div class="paper-visual{% if not item.figure %} venue-only{% endif %}"{% if not item.figure %} aria-hidden="true"{% endif %}>
+    {% if item.figure %}<img src="{{ base }}{{ item.figure }}" alt="{{ item.figure_alt }}" loading="lazy" width="340" height="210">{% endif %}
+    <div class="venue-label">{{ item.short_venue }}</div>
+  </div>
+</article>
+{%- endmacro %}
