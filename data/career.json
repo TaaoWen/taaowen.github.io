@@ -321,7 +321,7 @@
       "name": "Information Processing & Management",
       "detail": "Explainable AI and Network Science for Social Systems and Collective Intelligence (with Xinyi Zhou, Richard Allmendinger, and Kang Hao Cheong)",
       "url": "https://www.sciencedirect.com/journal/information-processing-and-management",
-      "url_detail": "https://www.sciencedirect.com/special-issue/332020/explainable-ai-and-network-science-for-social-systems-and-collective-intelligence"
+      "urldetail": "https://www.sciencedirect.com/special-issue/332020/explainable-ai-and-network-science-for-social-systems-and-collective-intelligence"
     },
     {
       "year": 2023,
@@ -330,7 +330,7 @@
       "name": "Mathematics",
       "detail": "Data-driven Decision Making: Models, Methods and Applications (with Yu-wang Chen and Mi Zhou)",
       "url": "https://www.mdpi.com/journal/mathematics",
-      "url_detail": "https://www.mdpi.com/journal/mathematics/special_issues/Data_Driven_Decis_Mak_2nd"
+      "urldetail": "https://www.mdpi.com/journal/mathematics/special_issues/Data_Driven_Decis_Mak_2nd"
     }
   ],
   "chairing": [
